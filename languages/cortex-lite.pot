@@ -1,0 +1,5854 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Cortex\n"
+"POT-Creation-Date: 2016-04-03 14:34-0500\n"
+"PO-Revision-Date: 2016-04-03 14:33-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:23
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:34
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:44
+msgid "Most Used Categories"
+msgstr ""
+
+#: 404.php:63
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: admin/acf-cf7/acf-cf7-v5.php:32
+msgid "Contact Form 7"
+msgstr ""
+
+#: admin/acf-cf7/acf-cf7-v5.php:59
+msgid "Error! Please enter a higher value"
+msgstr ""
+
+#: admin/acf-cf7/acf-cf7-v5.php:95 admin/acf-sliders/slider.class.php:107
+#: admin/acf-sliders/slider.class.php:244
+#: admin/acf-widget-area-field/widget-area-v5.php:64
+#: admin/acf/fields/page_link.php:548 admin/acf/fields/post_object.php:414
+#: admin/acf/fields/select.php:372 admin/acf/fields/taxonomy.php:791
+#: admin/acf/fields/user.php:452
+msgid "Allow Null?"
+msgstr ""
+
+#: admin/acf-cf7/acf-cf7-v5.php:99 admin/acf-cf7/acf-cf7-v5.php:110
+#: admin/acf-field-date-time-picker/date_time_picker-v5.php:94
+#: admin/acf-field-date-time-picker/date_time_picker-v5.php:119
+#: admin/acf-field-date-time-picker/date_time_picker-v5.php:132
+#: admin/acf-sliders/slider.class.php:116
+#: admin/acf-sliders/slider.class.php:133
+#: admin/acf-sliders/slider.class.php:150
+#: admin/acf-sliders/slider.class.php:249
+#: admin/acf-sliders/slider.class.php:260
+#: admin/acf-sliders/slider.class.php:272
+#: admin/acf-widget-area-field/widget-area-v5.php:68
+#: admin/acf/admin/views/field-group-field-conditional-logic.php:40
+#: admin/acf/admin/views/field-group-field.php:140
+#: admin/acf/fields/checkbox.php:246 admin/acf/fields/message.php:144
+#: admin/acf/fields/page_link.php:553 admin/acf/fields/page_link.php:567
+#: admin/acf/fields/post_object.php:419 admin/acf/fields/post_object.php:433
+#: admin/acf/fields/select.php:377 admin/acf/fields/select.php:391
+#: admin/acf/fields/select.php:405 admin/acf/fields/select.php:419
+#: admin/acf/fields/tab.php:161 admin/acf/fields/taxonomy.php:796
+#: admin/acf/fields/taxonomy.php:810 admin/acf/fields/taxonomy.php:824
+#: admin/acf/fields/taxonomy.php:838 admin/acf/fields/user.php:457
+#: admin/acf/fields/user.php:471 admin/acf/fields/wysiwyg.php:415
+#: admin/acf/pro/admin/views/settings-updates.php:92
+#: admin/customizer/options.php:177
+msgid "Yes"
+msgstr ""
+
+#: admin/acf-cf7/acf-cf7-v5.php:100 admin/acf-cf7/acf-cf7-v5.php:111
+#: admin/acf-field-date-time-picker/date_time_picker-v5.php:95
+#: admin/acf-field-date-time-picker/date_time_picker-v5.php:120
+#: admin/acf-field-date-time-picker/date_time_picker-v5.php:133
+#: admin/acf-sliders/slider.class.php:117
+#: admin/acf-sliders/slider.class.php:134
+#: admin/acf-sliders/slider.class.php:151
+#: admin/acf-sliders/slider.class.php:250
+#: admin/acf-sliders/slider.class.php:261
+#: admin/acf-sliders/slider.class.php:273
+#: admin/acf-widget-area-field/widget-area-v5.php:69
+#: admin/acf/admin/views/field-group-field-conditional-logic.php:41
+#: admin/acf/admin/views/field-group-field.php:141
+#: admin/acf/fields/checkbox.php:247 admin/acf/fields/message.php:145
+#: admin/acf/fields/page_link.php:554 admin/acf/fields/page_link.php:568
+#: admin/acf/fields/post_object.php:420 admin/acf/fields/post_object.php:434
+#: admin/acf/fields/select.php:378 admin/acf/fields/select.php:392
+#: admin/acf/fields/select.php:406 admin/acf/fields/select.php:420
+#: admin/acf/fields/tab.php:162 admin/acf/fields/taxonomy.php:711
+#: admin/acf/fields/taxonomy.php:797 admin/acf/fields/taxonomy.php:811
+#: admin/acf/fields/taxonomy.php:825 admin/acf/fields/taxonomy.php:839
+#: admin/acf/fields/user.php:458 admin/acf/fields/user.php:472
+#: admin/acf/fields/wysiwyg.php:416
+#: admin/acf/pro/admin/views/settings-updates.php:102
+#: admin/customizer/options.php:180
+msgid "No"
+msgstr ""
+
+#: admin/acf-cf7/acf-cf7-v5.php:106 admin/acf-sliders/slider.class.php:125
+#: admin/acf-sliders/slider.class.php:255
+msgid "Select Multiple?"
+msgstr ""
+
+#: admin/acf-cf7/acf-cf7-v5.php:126
+msgid "Disable Forms?"
+msgstr ""
+
+#: admin/acf-cf7/acf-cf7-v5.php:127
+msgid "User will not be able to select these forms"
+msgstr ""
+
+#: admin/acf-field-date-time-picker/date_time_picker-v5.php:19
+#: admin/acf-field-date-time-picker/date_time_picker-v5.php:66
+msgid "Date and Time Picker"
+msgstr ""
+
+#: admin/acf-field-date-time-picker/date_time_picker-v5.php:20
+#: admin/acf/core/field.php:135
+msgid "jQuery"
+msgstr ""
+
+#: admin/acf-field-date-time-picker/date_time_picker-v5.php:22
+msgid "Choose Time"
+msgstr ""
+
+#: admin/acf-field-date-time-picker/date_time_picker-v5.php:61
+msgid "Date and Time Picker?"
+msgstr ""
+
+#: admin/acf-field-date-time-picker/date_time_picker-v5.php:67
+msgid "Time Picker"
+msgstr ""
+
+#: admin/acf-field-date-time-picker/date_time_picker-v5.php:73
+msgid "Date Format"
+msgstr ""
+
+#: admin/acf-field-date-time-picker/date_time_picker-v5.php:74
+#, php-format
+msgid ""
+"eg. mm/dd/yy. read more about <a href=\"%s\" target=\"_blank\">formatting  "
+"date</a>"
+msgstr ""
+
+#: admin/acf-field-date-time-picker/date_time_picker-v5.php:81
+msgid "Time Format"
+msgstr ""
+
+#: admin/acf-field-date-time-picker/date_time_picker-v5.php:82
+#, php-format
+msgid ""
+"eg. hh:mm. read more about <a href=\"%s\" target=\"_blank\">formatting  "
+"time</a>"
+msgstr ""
+
+#: admin/acf-field-date-time-picker/date_time_picker-v5.php:89
+msgid "Display Week Number?"
+msgstr ""
+
+#: admin/acf-field-date-time-picker/date_time_picker-v5.php:101
+msgid "Time Picker style?"
+msgstr ""
+
+#: admin/acf-field-date-time-picker/date_time_picker-v5.php:106
+msgid "Slider"
+msgstr ""
+
+#: admin/acf-field-date-time-picker/date_time_picker-v5.php:107
+msgid "Dropdown"
+msgstr ""
+
+#: admin/acf-field-date-time-picker/date_time_picker-v5.php:113
+msgid "Save as timestamp?"
+msgstr ""
+
+#: admin/acf-field-date-time-picker/date_time_picker-v5.php:114
+#, php-format
+msgid ""
+"Most users should leave this untouched, only set it to \"No\" if you need a "
+"date and time format not supported by <a href=\"%s\" target=\"_blank"
+"\">strtotime</a>"
+msgstr ""
+
+#: admin/acf-field-date-time-picker/date_time_picker-v5.php:126
+msgid "Get field as timestamp?"
+msgstr ""
+
+#: admin/acf-field-date-time-picker/date_time_picker-v5.php:127
+#, php-format
+msgid ""
+"Most users should leave this untouched, only set it to \"Yes\" if you need "
+"get the  date and time field as a timestamp using  <a href=\"%s\" target="
+"\"_blank\">the_field()</a> or <a href=\"%s\" target=\"_blank\">get_field()</"
+"a> "
+msgstr ""
+
+#: admin/acf-field-date-time-picker/date_time_picker-v5.php:327
+#: admin/acf/fields/date_picker.php:72
+msgid "Done"
+msgstr ""
+
+#: admin/acf-field-date-time-picker/date_time_picker-v5.php:328
+#: admin/acf/fields/date_picker.php:73
+msgid "Today"
+msgstr ""
+
+#: admin/acf-field-date-time-picker/date_time_picker-v5.php:329
+msgid "Prev"
+msgstr ""
+
+#: admin/acf-field-date-time-picker/date_time_picker-v5.php:330 index.php:151
+#: page-builder/content-blog_latest-ns.php:125
+#: page-builder/content-blog_latest.php:155
+#: page-builder/content-blog_latest.php:218
+#: page-builder/content-blog_latest.php:282 parts/archive-sidebar-left.php:45
+#: parts/archive-sidebar-none.php:32 parts/archive-sidebar-right.php:33
+msgid "Next"
+msgstr ""
+
+#: admin/acf-field-date-time-picker/date_time_picker-v5.php:331
+#: admin/acf/fields/date_picker.php:76
+msgid "Show a different month"
+msgstr ""
+
+#: admin/acf-field-date-time-picker/date_time_picker-v5.php:332
+msgid "Wk"
+msgstr ""
+
+#: admin/acf-field-date-time-picker/date_time_picker-v5.php:333
+msgid "Time"
+msgstr ""
+
+#: admin/acf-field-date-time-picker/date_time_picker-v5.php:334
+msgid "Hour"
+msgstr ""
+
+#: admin/acf-field-date-time-picker/date_time_picker-v5.php:335
+msgid "Minute"
+msgstr ""
+
+#: admin/acf-field-date-time-picker/date_time_picker-v5.php:336
+msgid "Second"
+msgstr ""
+
+#: admin/acf-field-date-time-picker/date_time_picker-v5.php:337
+msgid "Millisecond"
+msgstr ""
+
+#: admin/acf-field-date-time-picker/date_time_picker-v5.php:338
+msgid "Time Zone"
+msgstr ""
+
+#: admin/acf-sliders/slider.class.php:7
+msgid "Sliders"
+msgstr ""
+
+#: admin/acf-sliders/slider.class.php:85 admin/acf-sliders/slider.class.php:234
+msgid "Disabled Slides:"
+msgstr ""
+
+#: admin/acf-sliders/slider.class.php:86
+msgid "You will not be able to select these Slides"
+msgstr ""
+
+#: admin/acf-sliders/slider.class.php:142
+#: admin/acf-sliders/slider.class.php:266
+msgid "Hide disabled Slides?"
+msgstr ""
+
+#: admin/acf-widget-area-field/widget-area-v5.php:27
+msgid "Widget Area"
+msgstr ""
+
+#: admin/acf-widget-area-field/widget-area-v5.php:75
+msgid "Display Widget Area HTML or Return Widget Area Name"
+msgstr ""
+
+#: admin/acf-widget-area-field/widget-area-v5.php:79
+msgid "Display Widget Area HTML"
+msgstr ""
+
+#: admin/acf-widget-area-field/widget-area-v5.php:80
+msgid "Return Widget Name"
+msgstr ""
+
+#: admin/acf-widget-area-field/widget-area-v5.php:104
+msgctxt "ACF Widget Area Null Select Option"
+msgid "- Select - "
+msgstr ""
+
+#: admin/acf.php:6
+msgid "Category Page Options"
+msgstr ""
+
+#: admin/acf.php:10 admin/acf.php:2065 admin/acf.php:2320 admin/acf.php:3244
+#: admin/acf.php:3602 admin/acf.php:3649 admin/acf.php:4270 admin/acf.php:5872
+msgid "Change Header Navigation Type"
+msgstr ""
+
+#: admin/acf.php:13 admin/acf.php:2068 admin/acf.php:2323 admin/acf.php:3247
+#: admin/acf.php:3605 admin/acf.php:3652 admin/acf.php:3971 admin/acf.php:4273
+#: admin/acf.php:5875
+msgid ""
+"Some posts or pages will have large\tbackground imagery that hides the "
+"header navigation links and logo. If that's the case, you can override the "
+"default setting for your navigation type by changing this setting."
+msgstr ""
+
+#: admin/acf.php:33
+msgid "Category Header Height"
+msgstr ""
+
+#: admin/acf.php:36
+msgid "Select the % height of the header. Mobile will display at 100% height."
+msgstr ""
+
+#: admin/acf.php:66
+msgid "Category Header Image"
+msgstr ""
+
+#: admin/acf.php:69
+msgid ""
+"Select the image that will act as the background for the header. Recommended "
+"image size is at least 2000px wide by 770px high"
+msgstr ""
+
+#: admin/acf.php:90
+msgid "Enable Header Image Overlay"
+msgstr ""
+
+#: admin/acf.php:93
+msgid "Enable or disable the overlay above your featured categoroy image?"
+msgstr ""
+
+#: admin/acf.php:106 admin/acf.php:2088 admin/acf.php:4293
+msgid "Sidebar Display"
+msgstr ""
+
+#: admin/acf.php:129
+msgid "Posts Layout"
+msgstr ""
+
+#: admin/acf.php:132
+msgid "Select the layout for the category"
+msgstr ""
+
+#: admin/acf.php:173 admin/acf.php:177
+msgid "Cortex Header Builder"
+msgstr ""
+
+#: admin/acf.php:195 admin/acf.php:9970
+msgid "Full Screen Slider Revolution"
+msgstr ""
+
+#: admin/acf.php:200 admin/acf.php:251 admin/acf.php:7071 admin/acf.php:9975
+#: admin/acf.php:10026
+msgid "Slider Revolution"
+msgstr ""
+
+#: admin/acf.php:203 admin/acf.php:254 admin/acf.php:7074 admin/acf.php:9978
+#: admin/acf.php:10029
+msgid ""
+"Select which slider you'd like to display. Sliders can be made up of "
+"portfolio posts, or stand-alone individual image slides."
+msgstr ""
+
+#: admin/acf.php:220 admin/acf.php:271 admin/acf.php:323 admin/acf.php:1155
+#: admin/acf.php:1312 admin/acf.php:1423 admin/acf.php:1795 admin/acf.php:6406
+#: admin/acf.php:6548 admin/acf.php:6783 admin/acf.php:7040 admin/acf.php:7091
+#: admin/acf.php:7140 admin/acf.php:7325 admin/acf.php:7417 admin/acf.php:7469
+#: admin/acf.php:7604 admin/acf.php:7693 admin/acf.php:8154 admin/acf.php:8619
+#: admin/acf.php:8991 admin/acf.php:9457 admin/acf.php:9944 admin/acf.php:9995
+#: admin/acf.php:10068 admin/acf.php:10339 admin/acf.php:10712
+#: admin/acf.php:11199 admin/acf.php:11616 admin/acf.php:12016
+#: admin/acf.php:12323 admin/acf.php:12375 admin/acf.php:13207
+#: admin/acf.php:13364 admin/acf.php:13475 admin/acf.php:14151
+#: admin/acf.php:14597
+msgid "Custom Class"
+msgstr ""
+
+#: admin/acf.php:246 admin/acf.php:7066 admin/acf.php:10021
+msgid "Full Width Slider Revolution"
+msgstr ""
+
+#: admin/acf.php:297 admin/acf.php:302 admin/acf.php:7443 admin/acf.php:7448
+#: admin/acf.php:12349 admin/acf.php:12354
+msgid "Custom Code"
+msgstr ""
+
+#: admin/acf.php:305 admin/acf.php:7451 admin/acf.php:12357
+msgid ""
+"Copy and paste any HTML, CSS, or Javascript code into the field. Make sure "
+"to use opening and closing tags for styles, javascript, and HTML or else it "
+"may break the design."
+msgstr ""
+
+#: admin/acf.php:326 admin/acf.php:7472 admin/acf.php:12378
+msgid "Enter in a custom class (if necessary) for the custom code field"
+msgstr ""
+
+#: admin/acf.php:349 admin/acf.php:12401
+msgid "Hero"
+msgstr ""
+
+#: admin/acf.php:354 admin/acf.php:1479 admin/acf.php:1684 admin/acf.php:4014
+#: admin/acf.php:4675 admin/acf.php:6250 admin/acf.php:6437 admin/acf.php:6579
+#: admin/acf.php:6814 admin/acf.php:7171 admin/acf.php:7356 admin/acf.php:7749
+#: admin/acf.php:8233 admin/acf.php:8650 admin/acf.php:9022 admin/acf.php:9488
+#: admin/acf.php:10370 admin/acf.php:10743 admin/acf.php:11230
+#: admin/acf.php:11647 admin/acf.php:12047 admin/acf.php:12068
+#: admin/acf.php:12406 admin/acf.php:13531
+msgid "Heading"
+msgstr ""
+
+#: admin/acf.php:357 admin/acf.php:12409
+msgid "Enter the main heading for the hero"
+msgstr ""
+
+#: admin/acf.php:375 admin/acf.php:1548 admin/acf.php:1705 admin/acf.php:4035
+#: admin/acf.php:6271 admin/acf.php:6458 admin/acf.php:6600 admin/acf.php:6835
+#: admin/acf.php:7192 admin/acf.php:7377 admin/acf.php:7818 admin/acf.php:8254
+#: admin/acf.php:8671 admin/acf.php:9043 admin/acf.php:9509 admin/acf.php:10764
+#: admin/acf.php:11251 admin/acf.php:11668 admin/acf.php:12427
+#: admin/acf.php:13600
+msgid "Sub Heading"
+msgstr ""
+
+#: admin/acf.php:378 admin/acf.php:12430
+msgid "Enter in a subheading if applicable"
+msgstr ""
+
+#: admin/acf.php:396 admin/acf.php:12448 admin/acf/admin/field-groups.php:526
+#: admin/acf/admin/views/field-group-options.php:93
+#: admin/acf/admin/views/update-network.php:20
+#: admin/acf/admin/views/update-network.php:28
+msgid "Description"
+msgstr ""
+
+#: admin/acf.php:399 admin/acf.php:12451
+msgid ""
+"Enter in any type of content to be used as the description. Can include "
+"shortcodes."
+msgstr ""
+
+#: admin/acf.php:414 admin/acf.php:12466
+msgid "Hero Height"
+msgstr ""
+
+#: admin/acf.php:417 admin/acf.php:3675 admin/acf.php:12469
+msgid ""
+"Select how much height of the browser viewport you'd like the hero to take up"
+msgstr ""
+
+#: admin/acf.php:450 admin/acf.php:12502
+msgid "Hero Background Type"
+msgstr ""
+
+#: admin/acf.php:453 admin/acf.php:12505
+msgid ""
+"Select the type of background for your hero. Can be an image, video, "
+"pattern, or a solid color."
+msgstr ""
+
+#: admin/acf.php:475 admin/acf.php:5162 admin/acf.php:12527
+msgid "Hero Background Color"
+msgstr ""
+
+#: admin/acf.php:478 admin/acf.php:12530
+msgid "Select the hero background color"
+msgstr ""
+
+#: admin/acf.php:505 admin/acf.php:12557
+msgid "Hero Background Image"
+msgstr ""
+
+#: admin/acf.php:508 admin/acf.php:12560
+msgid ""
+"Select the background image. We recommend it be at least 2000px wide by "
+"whatever height best fits in your hero height of choice."
+msgstr ""
+
+#: admin/acf.php:537 admin/acf.php:12589
+msgid "Hero Background Pattern"
+msgstr ""
+
+#: admin/acf.php:540 admin/acf.php:12592
+msgid ""
+"Select the background pattern for your hero. Can be a transparent image used "
+"in tandem with a background color and will have an overlay to make the text "
+"easier to read"
+msgstr ""
+
+#: admin/acf.php:569 admin/acf.php:12621
+msgid "Hero Pattern Repeat?"
+msgstr ""
+
+#: admin/acf.php:572 admin/acf.php:2261 admin/acf.php:3192 admin/acf.php:3543
+#: admin/acf.php:3840 admin/acf.php:4496 admin/acf.php:5813 admin/acf.php:6166
+#: admin/acf.php:8411 admin/acf.php:8828 admin/acf.php:9200 admin/acf.php:9666
+#: admin/acf.php:10304 admin/acf.php:10677 admin/acf.php:11164
+#: admin/acf.php:11581 admin/acf.php:11981 admin/acf.php:12288
+#: admin/acf.php:12624 admin/acf.php:14116 admin/acf.php:14562
+msgid ""
+"Select whether your background image should repeat vertically, horizontally, "
+"or both"
+msgstr ""
+
+#: admin/acf.php:600 admin/acf.php:5185 admin/acf.php:12652
+msgid "Video Background Source"
+msgstr ""
+
+#: admin/acf.php:603 admin/acf.php:5188 admin/acf.php:12655
+msgid ""
+"Will you be uploading your video files, embedding them from YouTube or "
+"Vimeo, or linking to external sources like Amazon S3?"
+msgstr ""
+
+#: admin/acf.php:631 admin/acf.php:5216 admin/acf.php:12683
+msgid "Video Background Embed"
+msgstr ""
+
+#: admin/acf.php:667 admin/acf.php:12719
+msgid "Video Background Still Image"
+msgstr ""
+
+#: admin/acf.php:670 admin/acf.php:5125 admin/acf.php:12722
+msgid ""
+"Make sure the image is at least 1920x1080 in height and width for fall back "
+"on mobile devices. (MInimum 1200px by 700px)"
+msgstr ""
+
+#: admin/acf.php:728 admin/acf.php:5252 admin/acf.php:12780
+msgid "Video Background MP4 File"
+msgstr ""
+
+#: admin/acf.php:731 admin/acf.php:5255 admin/acf.php:12783
+msgid "Attach the mp4 file for your video background"
+msgstr ""
+
+#: admin/acf.php:760 admin/acf.php:5318 admin/acf.php:12812
+msgid "Video Background Webm File"
+msgstr ""
+
+#: admin/acf.php:763 admin/acf.php:861 admin/acf.php:5321 admin/acf.php:12815
+#: admin/acf.php:12913
+msgid "For the webm video file format"
+msgstr ""
+
+#: admin/acf.php:792 admin/acf.php:5384 admin/acf.php:12844
+msgid "Video Background OGV File"
+msgstr ""
+
+#: admin/acf.php:795 admin/acf.php:5387 admin/acf.php:12847
+msgid "Upload a OGV video file"
+msgstr ""
+
+#: admin/acf.php:824 admin/acf.php:5284 admin/acf.php:12876
+msgid "Video Background MP4 File Link"
+msgstr ""
+
+#: admin/acf.php:827 admin/acf.php:5287 admin/acf.php:12879
+msgid "Enter in the link to your mp4 file"
+msgstr ""
+
+#: admin/acf.php:858 admin/acf.php:5350 admin/acf.php:12910
+msgid "Video Background Webm File Link"
+msgstr ""
+
+#: admin/acf.php:892 admin/acf.php:5416 admin/acf.php:12944
+msgid "Video Background OGV File Link"
+msgstr ""
+
+#: admin/acf.php:895 admin/acf.php:5419 admin/acf.php:12947
+msgid "Link to external ogv video file"
+msgstr ""
+
+#: admin/acf.php:926 admin/acf.php:1407 admin/acf.php:7677 admin/acf.php:12978
+#: admin/acf.php:13459
+msgid "Display Overlay"
+msgstr ""
+
+#: admin/acf.php:929 admin/acf.php:12981
+msgid ""
+"Display the dark (or light) overlay behind your content to make the content "
+"easier to read over image or video backgrounds"
+msgstr ""
+
+#: admin/acf.php:964 admin/acf.php:13016
+msgid "Hero Content"
+msgstr ""
+
+#: admin/acf.php:967 admin/acf.php:13019
+msgid ""
+"If you'd like to have the hero heading split into two columns, select the "
+"content type for the second column which will appear next to your heading/"
+"subheading/description. You can enter in a slideshow, video, or image. If "
+"none, then the heading/subheading/description will take up the full width."
+msgstr ""
+
+#: admin/acf.php:989 admin/acf.php:13041
+msgid "Hero Content Align"
+msgstr ""
+
+#: admin/acf.php:992 admin/acf.php:13044
+msgid ""
+"Would you like the hero content to display to the left or right of the "
+"heading/subheading/description?"
+msgstr ""
+
+#: admin/acf.php:1040 admin/acf.php:13092
+msgid "Video or Audio Embed Link"
+msgstr ""
+
+#: admin/acf.php:1043 admin/acf.php:13095
+msgid ""
+"Copy and paste the URL to any YouTube, Vimeo, or oEmbed supported link. To "
+"see a full list of supported embeds <a href=\"https://codex.wordpress.org/"
+"Embeds\" target=\"_blank\">go here</a>."
+msgstr ""
+
+#: admin/acf.php:1064 admin/acf.php:5502 admin/acf.php:13116
+msgid "Flex Slider Slides"
+msgstr ""
+
+#: admin/acf.php:1067 admin/acf.php:5505 admin/acf.php:13119
+msgid "Upload images to be added to the Flex Slider hero"
+msgstr ""
+
+#: admin/acf.php:1097 admin/acf.php:13149
+msgid "Hero WP Editor"
+msgstr ""
+
+#: admin/acf.php:1100 admin/acf.php:13152
+msgid "Enter in any content to be displayed using the Wordpress Editor"
+msgstr ""
+
+#: admin/acf.php:1123 admin/acf.php:13175
+msgid "Hero Content Image"
+msgstr ""
+
+#: admin/acf.php:1126 admin/acf.php:13178
+msgid ""
+"Upload a hero image to be displayed to the right or left of the subheading/"
+"heading/description"
+msgstr ""
+
+#: admin/acf.php:1158 admin/acf.php:13210
+msgid "Enter in a custom class for this hero section"
+msgstr ""
+
+#: admin/acf.php:1181 admin/acf.php:7495 admin/acf.php:13233
+msgid "Simple Slider"
+msgstr ""
+
+#: admin/acf.php:1186 admin/acf.php:1343 admin/acf.php:5917 admin/acf.php:11318
+#: admin/acf.php:13238 admin/acf.php:13395 admin/acf/fields/image.php:238
+#: admin/acf/fields/image.php:271 admin/acf/fields/oembed.php:264
+#: admin/acf/pro/fields/gallery.php:673 admin/acf/pro/fields/gallery.php:706
+msgid "Width"
+msgstr ""
+
+#: admin/acf.php:1189 admin/acf.php:13241
+msgid "How wide would you like the slider to be?"
+msgstr ""
+
+#: admin/acf.php:1208 admin/acf.php:7500 admin/acf.php:13260
+msgid "Slides"
+msgstr ""
+
+#: admin/acf.php:1211 admin/acf.php:7503 admin/acf.php:13263
+msgid "Generate a simple slider using the flex slider with images and content"
+msgstr ""
+
+#: admin/acf.php:1226 admin/acf.php:1365 admin/acf.php:7518 admin/acf.php:7635
+#: admin/acf.php:13278 admin/acf.php:13417 admin/acf/fields/image.php:36
+msgid "Image"
+msgstr ""
+
+#: admin/acf.php:1229 admin/acf.php:7521 admin/acf.php:13281
+msgid ""
+"Attach your image to the slide. Make sure all slide images are the same "
+"width/height!"
+msgstr ""
+
+#: admin/acf.php:1250 admin/acf.php:1389 admin/acf.php:7122 admin/acf.php:7542
+#: admin/acf.php:7659 admin/acf.php:10099 admin/acf.php:13302
+#: admin/acf.php:13441 admin/acf/core/field.php:132
+msgid "Content"
+msgstr ""
+
+#: admin/acf.php:1253 admin/acf.php:7545 admin/acf.php:13305
+msgid "Enter in the content for the slide if any"
+msgstr ""
+
+#: admin/acf.php:1268 admin/acf.php:7560 admin/acf.php:13320
+msgid "Link"
+msgstr ""
+
+#: admin/acf.php:1271 admin/acf.php:7563 admin/acf.php:13323
+msgid "Link this slide to a post or page?"
+msgstr ""
+
+#: admin/acf.php:1288 admin/acf.php:7580 admin/acf.php:13340
+msgid "External Link"
+msgstr ""
+
+#: admin/acf.php:1291 admin/acf.php:7583 admin/acf.php:13343
+msgid ""
+"If you'd prefer to link this slide to an external link outside of your site."
+msgstr ""
+
+#: admin/acf.php:1315 admin/acf.php:1426 admin/acf.php:7607 admin/acf.php:7696
+#: admin/acf.php:8157 admin/acf.php:13367 admin/acf.php:13478
+#: admin/acf.php:14154 admin/acf.php:14600
+msgid "Enter in a custom class for this section"
+msgstr ""
+
+#: admin/acf.php:1338 admin/acf.php:7630 admin/acf.php:13390
+msgid "Full Width Image"
+msgstr ""
+
+#: admin/acf.php:1346 admin/acf.php:13398
+msgid ""
+"Select fixed width to be the same width as the content of the site, or "
+"select full viewport to be the full browser width."
+msgstr ""
+
+#: admin/acf.php:1368 admin/acf.php:7638 admin/acf.php:13420
+msgid ""
+"Attach the full width image. Recommend using an image that's at least 2000 "
+"pixels wide"
+msgstr ""
+
+#: admin/acf.php:1392 admin/acf.php:7662 admin/acf.php:13444
+msgid "Enter any content you'd like to display over the image"
+msgstr ""
+
+#: admin/acf.php:1410 admin/acf.php:7680 admin/acf.php:13462
+msgid ""
+"Put a semi-transparent full width/height overlay over the image to make the "
+"content over the image easier to read?"
+msgstr ""
+
+#: admin/acf.php:1449 admin/acf.php:7719 admin/acf.php:13501
+msgid "Basic Title/Text"
+msgstr ""
+
+#: admin/acf.php:1454 admin/acf.php:7724 admin/acf.php:13506
+msgid "Select Elements"
+msgstr ""
+
+#: admin/acf.php:1457 admin/acf.php:7727 admin/acf.php:13509
+msgid ""
+"Select which elements you'd like to use for your basic title/text section."
+msgstr ""
+
+#: admin/acf.php:1482 admin/acf.php:7752 admin/acf.php:13534
+msgid "Enter in the headline text"
+msgstr ""
+
+#: admin/acf.php:1508 admin/acf.php:7778 admin/acf.php:13560
+msgid "Heading Size"
+msgstr ""
+
+#: admin/acf.php:1511 admin/acf.php:7781 admin/acf.php:13563
+msgid ""
+"Select the size of heading you'd like to use. H1 being the largest and H6 "
+"being the smallest"
+msgstr ""
+
+#: admin/acf.php:1551 admin/acf.php:7821 admin/acf.php:13603
+msgid "Enter an optional subheading. Displays below heading (if there is one)"
+msgstr ""
+
+#: admin/acf.php:1577 admin/acf.php:7847 admin/acf.php:13629
+msgid "Sub Heading Size"
+msgstr ""
+
+#: admin/acf.php:1580 admin/acf.php:7850 admin/acf.php:13632
+msgid "Select the font size for the optional sub heading"
+msgstr ""
+
+#: admin/acf.php:1616 admin/acf.php:7886 admin/acf.php:13668
+msgid "Line Break Width"
+msgstr ""
+
+#: admin/acf.php:1619 admin/acf.php:7889 admin/acf.php:13671
+msgid ""
+"Select the width of the line break appearing below the heading and/or "
+"subheading"
+msgstr ""
+
+#: admin/acf.php:1648 admin/acf.php:7918 admin/acf.php:13700
+msgid "Basic Text"
+msgstr ""
+
+#: admin/acf.php:1651 admin/acf.php:7921 admin/acf.php:13703
+msgid "Enter in any basic text to appear below the sub heading."
+msgstr ""
+
+#: admin/acf.php:1679 admin/acf.php:6432 admin/acf.php:8645
+msgid "Blog Style Posts Slider"
+msgstr ""
+
+#: admin/acf.php:1687 admin/acf.php:6253 admin/acf.php:6440 admin/acf.php:6582
+#: admin/acf.php:6817 admin/acf.php:8236 admin/acf.php:8653 admin/acf.php:9025
+#: admin/acf.php:9491
+msgid ""
+"Optional field for a title which will show up as a main heading above your "
+"posts"
+msgstr ""
+
+#: admin/acf.php:1708 admin/acf.php:6274 admin/acf.php:6461 admin/acf.php:6603
+#: admin/acf.php:6838 admin/acf.php:8257 admin/acf.php:8674 admin/acf.php:9046
+#: admin/acf.php:9512
+msgid "Optional field for a subtitle which will show up below the main title"
+msgstr ""
+
+#: admin/acf.php:1726
+msgid "Filter By Category?"
+msgstr ""
+
+#: admin/acf.php:1729 admin/acf.php:6295 admin/acf.php:6482 admin/acf.php:6672
+#: admin/acf.php:6952 admin/acf.php:8508 admin/acf.php:8925 admin/acf.php:9346
+#: admin/acf.php:9857
+msgid "Filter posts by category or leave blank to show all post categories"
+msgstr ""
+
+#: admin/acf.php:1749 admin/acf.php:6315 admin/acf.php:6502 admin/acf.php:6692
+#: admin/acf.php:6972 admin/acf.php:8528 admin/acf.php:8945 admin/acf.php:9366
+#: admin/acf.php:9876
+msgid "Filter By Format"
+msgstr ""
+
+#: admin/acf.php:1772 admin/acf.php:6338 admin/acf.php:6525 admin/acf.php:6715
+#: admin/acf.php:8551 admin/acf.php:8968 admin/acf.php:9389 admin/acf.php:10916
+msgid "Number of posts to display?"
+msgstr ""
+
+#: admin/acf.php:1798 admin/acf.php:6409 admin/acf.php:6551 admin/acf.php:6786
+#: admin/acf.php:7043 admin/acf.php:7143 admin/acf.php:8622 admin/acf.php:8994
+#: admin/acf.php:9460 admin/acf.php:9947 admin/acf.php:10342
+msgid "Enter a custom class name for further customization with CSS"
+msgstr ""
+
+#: admin/acf.php:1848
+msgid "Cortex Options Page"
+msgstr ""
+
+#: admin/acf.php:1852
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/acf.php:1855
+msgid "Enter any customized CSS to be included on every page."
+msgstr ""
+
+#: admin/acf.php:1873
+msgid "Custom Javascript"
+msgstr ""
+
+#: admin/acf.php:1876
+msgid "Enter any custom javascript to be included in the footer of the site."
+msgstr ""
+
+#: admin/acf.php:1894
+msgid "Footer Copyright"
+msgstr ""
+
+#: admin/acf.php:1897
+msgid ""
+"Replace the \"COVERT NINE LLC 2015. All Rights Reserved\" text in the footer "
+"with your own copyright"
+msgstr ""
+
+#: admin/acf.php:1915
+msgid "Google Analytics Code"
+msgstr ""
+
+#: admin/acf.php:1918
+msgid "Copy and paste your Google Analytics tracking code"
+msgstr ""
+
+#: admin/acf.php:1936
+msgid "Twitter Consumer Key"
+msgstr ""
+
+#: admin/acf.php:1939
+msgid ""
+"Copy and paste the consumer key from Twitter. Make sure there are no leading "
+"spaces before or after the key"
+msgstr ""
+
+#: admin/acf.php:1957
+msgid "Twitter Consumer Secret"
+msgstr ""
+
+#: admin/acf.php:1960
+msgid ""
+"Copy and paste the consumer secret from Twitter. Be sure there are no spaces "
+"before/after"
+msgstr ""
+
+#: admin/acf.php:1978
+msgid "Twitter Access Token"
+msgstr ""
+
+#: admin/acf.php:1981
+msgid ""
+"Copy and paste the access token from Twitter. Be sure there are no spaces "
+"before/after"
+msgstr ""
+
+#: admin/acf.php:1999
+msgid "Twitter Access Token Secret"
+msgstr ""
+
+#: admin/acf.php:2002
+msgid ""
+"Copy and paste the access token secret from Twitter. Be sure there are no "
+"spaces before/after"
+msgstr ""
+
+#: admin/acf.php:2020
+msgid "MailChimp API Key"
+msgstr ""
+
+#: admin/acf.php:2023
+msgid ""
+"Enter a valid MailChimp API key here to get started. Once you've done that, "
+"you can use the Cortex MailChimp Widget from the Widgets menu. You will need "
+"to have at least one MailChimp list set up before using the widget."
+msgstr ""
+
+#: admin/acf.php:2061
+msgid "Cortex Page Builder Sidebar Options"
+msgstr ""
+
+#: admin/acf.php:2091 admin/acf.php:4296
+msgid "Would you like the sidebar to appear?"
+msgstr ""
+
+#: admin/acf.php:2116 admin/acf.php:8474 admin/acf.php:8891 admin/acf.php:9312
+#: admin/acf.php:9823
+msgid "Select Sidebar"
+msgstr ""
+
+#: admin/acf.php:2119
+msgid "Select which sidebar you'd like to display on this page"
+msgstr ""
+
+#: admin/acf.php:2132 admin/acf.php:3377 admin/acf.php:4367 admin/acf.php:5677
+#: admin/acf.php:6000 admin/acf.php:8275 admin/acf.php:8692 admin/acf.php:9064
+#: admin/acf.php:9530 admin/acf.php:10117 admin/acf.php:10497
+#: admin/acf.php:10984 admin/acf.php:11401 admin/acf.php:11801
+#: admin/acf.php:12108 admin/acf.php:13936 admin/acf.php:14382
+msgid "Custom Background"
+msgstr ""
+
+#: admin/acf.php:2135 admin/acf.php:3380 admin/acf.php:3707 admin/acf.php:4370
+#: admin/acf.php:5680 admin/acf.php:6003 admin/acf.php:8278 admin/acf.php:8695
+#: admin/acf.php:9067 admin/acf.php:9533 admin/acf.php:10120
+#: admin/acf.php:10500 admin/acf.php:10987 admin/acf.php:11404
+#: admin/acf.php:11804 admin/acf.php:12111 admin/acf.php:13939
+#: admin/acf.php:14385
+msgid "Select a background image, color, or pattern"
+msgstr ""
+
+#: admin/acf.php:2157 admin/acf.php:3127 admin/acf.php:3402 admin/acf.php:3729
+#: admin/acf.php:4392 admin/acf.php:5702 admin/acf.php:6025 admin/acf.php:8300
+#: admin/acf.php:8717 admin/acf.php:9089 admin/acf.php:9555 admin/acf.php:10142
+#: admin/acf.php:10522 admin/acf.php:11009 admin/acf.php:11426
+#: admin/acf.php:11826 admin/acf.php:12133 admin/acf.php:13961
+#: admin/acf.php:14407
+msgid "Background Color"
+msgstr ""
+
+#: admin/acf.php:2160 admin/acf.php:4395 admin/acf.php:8303 admin/acf.php:8720
+#: admin/acf.php:9092 admin/acf.php:9558 admin/acf.php:10145
+#: admin/acf.php:10525 admin/acf.php:11012 admin/acf.php:11429
+#: admin/acf.php:11829 admin/acf.php:12136 admin/acf.php:13964
+#: admin/acf.php:14410
+msgid "Select background color"
+msgstr ""
+
+#: admin/acf.php:2187 admin/acf.php:3081 admin/acf.php:3439 admin/acf.php:3766
+#: admin/acf.php:4422 admin/acf.php:5122 admin/acf.php:5739 admin/acf.php:6062
+#: admin/acf.php:8337 admin/acf.php:8754 admin/acf.php:9126 admin/acf.php:9592
+#: admin/acf.php:10179 admin/acf.php:10559 admin/acf.php:11046
+#: admin/acf.php:11463 admin/acf.php:11863 admin/acf.php:12170
+#: admin/acf.php:13998 admin/acf.php:14444
+msgid "Background Image"
+msgstr ""
+
+#: admin/acf.php:2190 admin/acf.php:4425
+msgid ""
+"Select an image to display below the featured image as your page's "
+"background. Recommended 2000 pixels wide minimum"
+msgstr ""
+
+#: admin/acf.php:2219 admin/acf.php:3157 admin/acf.php:3501 admin/acf.php:3798
+#: admin/acf.php:4454 admin/acf.php:5771 admin/acf.php:6124 admin/acf.php:8369
+#: admin/acf.php:8786 admin/acf.php:9158 admin/acf.php:9624 admin/acf.php:10262
+#: admin/acf.php:10635 admin/acf.php:11122 admin/acf.php:11539
+#: admin/acf.php:11939 admin/acf.php:12246 admin/acf.php:14074
+#: admin/acf.php:14520
+msgid "Background Pattern"
+msgstr ""
+
+#: admin/acf.php:2222 admin/acf.php:3160 admin/acf.php:3504 admin/acf.php:3801
+#: admin/acf.php:4457 admin/acf.php:5774 admin/acf.php:6127 admin/acf.php:8372
+#: admin/acf.php:8789 admin/acf.php:9161 admin/acf.php:9627 admin/acf.php:10265
+#: admin/acf.php:10638 admin/acf.php:11125 admin/acf.php:11542
+#: admin/acf.php:11942 admin/acf.php:12249 admin/acf.php:14077
+#: admin/acf.php:14523
+msgid ""
+"Use a pattern as your background that repeats vertically, horizontally, or "
+"both"
+msgstr ""
+
+#: admin/acf.php:2258 admin/acf.php:3189 admin/acf.php:3540 admin/acf.php:3837
+#: admin/acf.php:4493 admin/acf.php:5810 admin/acf.php:6163 admin/acf.php:8408
+#: admin/acf.php:8825 admin/acf.php:9197 admin/acf.php:9663 admin/acf.php:10301
+#: admin/acf.php:10674 admin/acf.php:11161 admin/acf.php:11578
+#: admin/acf.php:11978 admin/acf.php:12285 admin/acf.php:14113
+#: admin/acf.php:14559
+msgid "Background Pattern Repeat"
+msgstr ""
+
+#: admin/acf.php:2316
+msgid "Event Post Options"
+msgstr ""
+
+#: admin/acf.php:2343
+msgid "Event Header Overlay"
+msgstr ""
+
+#: admin/acf.php:2346 admin/acf.php:3994 admin/acf.php:4324 admin/acf.php:5657
+msgid ""
+"Cortex displays an overlay over featured images in headers to make the "
+"heading text easier to read. You can enable or disable this if your heading/"
+"title text is readable over your featured image without the need for a semi-"
+"transparent overlay. Default is to display the overlay if a featured image "
+"is set."
+msgstr ""
+
+#: admin/acf.php:2366
+msgid "Event Headline"
+msgstr ""
+
+#: admin/acf.php:2369
+msgid ""
+"Enter in the event headliner (event name, or band/musician name for instance)"
+msgstr ""
+
+#: admin/acf.php:2387
+msgid "Date/Time"
+msgstr ""
+
+#: admin/acf.php:2390
+msgid "Select a date and time for the event"
+msgstr ""
+
+#: admin/acf.php:2408
+msgid "Location Name"
+msgstr ""
+
+#: admin/acf.php:2411
+msgid "Enter the name of the location"
+msgstr ""
+
+#: admin/acf.php:2429
+msgid "Location City, State or Country"
+msgstr ""
+
+#: admin/acf.php:2432
+msgid "Enter the City, State and/or Country for the event"
+msgstr ""
+
+#: admin/acf.php:2450
+msgid "Location Address"
+msgstr ""
+
+#: admin/acf.php:2453
+msgid "Enter the address for the event"
+msgstr ""
+
+#: admin/acf.php:2471
+msgid "Location Map Link"
+msgstr ""
+
+#: admin/acf.php:2474
+msgid ""
+"Copy & paste the URL from the share link for the venue location to show a "
+"Google Map on the event detail page"
+msgstr ""
+
+#: admin/acf.php:2492
+msgid "Event Ticket Link"
+msgstr ""
+
+#: admin/acf.php:2495
+msgid "If the event has a ticketing page, enter the full URL"
+msgstr ""
+
+#: admin/acf.php:2513
+msgid "RSVP Link"
+msgstr ""
+
+#: admin/acf.php:2516
+msgid ""
+"If your event has a place to RSVP such as Facebook or Bands In Town, enter "
+"it here."
+msgstr ""
+
+#: admin/acf.php:2534
+msgid "Show the event featured image on the event single page?"
+msgstr ""
+
+#: admin/acf.php:2537
+msgid ""
+"Do you want to show the event featured image on the single event view page? "
+"(The featured image is used as the header background with a slight blur and "
+"overlay by default)"
+msgstr ""
+
+#: admin/acf.php:2550 admin/acf.php:2965
+msgid "Featured Image Display"
+msgstr ""
+
+#: admin/acf.php:2553 admin/acf.php:2968
+msgid "Show the featured image to the left or right of the event info?"
+msgstr ""
+
+#: admin/acf.php:2580
+msgid "Display event sidebar?"
+msgstr ""
+
+#: admin/acf.php:2583
+msgid ""
+"Would you like to display the events specific sidebar on the single event "
+"page?"
+msgstr ""
+
+#: admin/acf.php:2608
+msgid "Share Buttons"
+msgstr ""
+
+#: admin/acf.php:2611
+msgid "Show the share icons?"
+msgstr ""
+
+#: admin/acf.php:2624
+msgid "Opening Acts"
+msgstr ""
+
+#: admin/acf.php:2627
+msgid ""
+"Does this event have other acts? If so, select the number in the drop down "
+"to enter in the additional acts"
+msgstr ""
+
+#: admin/acf.php:2656
+msgid "First Opener"
+msgstr ""
+
+#: admin/acf.php:2659
+msgid "This would be the sixth headliner on the bill"
+msgstr ""
+
+#: admin/acf.php:2685
+msgid "Second Opener"
+msgstr ""
+
+#: admin/acf.php:2688
+msgid ""
+"Enter in the second opening act. This would be the fifth headliner on the "
+"bill"
+msgstr ""
+
+#: admin/acf.php:2740
+msgid "Third Opener"
+msgstr ""
+
+#: admin/acf.php:2743
+msgid "This would be the fourth headliner on the bill"
+msgstr ""
+
+#: admin/acf.php:2788
+msgid "Fourth Opener"
+msgstr ""
+
+#: admin/acf.php:2791
+msgid ""
+"Enter in the second to last opening act. This would be the third headliner "
+"on the bill"
+msgstr ""
+
+#: admin/acf.php:2829
+msgid "Fifth Opener"
+msgstr ""
+
+#: admin/acf.php:2832
+msgid ""
+"Enter in the last opening act. This would be the band going on just before "
+"the headliner"
+msgstr ""
+
+#: admin/acf.php:2883
+msgid "Events Page Header Options"
+msgstr ""
+
+#: admin/acf.php:2887
+msgid "Events Page Header Type"
+msgstr ""
+
+#: admin/acf.php:2890
+msgid "Select what you'd like to display in the header for the events page"
+msgstr ""
+
+#: admin/acf.php:2912
+msgid "Next Event Heading"
+msgstr ""
+
+#: admin/acf.php:2915
+msgid ""
+"Enter in the heading to be displayed above the next event info such as Next "
+"Show, Next Event, Next Concert, etc."
+msgstr ""
+
+#: admin/acf.php:2941
+msgid "Show next event featured image?"
+msgstr ""
+
+#: admin/acf.php:2944
+msgid ""
+"Select whether or not to display the next upcoming event featured image for "
+"the show or event"
+msgstr ""
+
+#: admin/acf.php:2995
+msgid "Events Page Heading"
+msgstr ""
+
+#: admin/acf.php:2998
+msgid ""
+"Enter in the heading for the page. If left blank, the page title will be "
+"used."
+msgstr ""
+
+#: admin/acf.php:3038
+msgid "Events Page Sub Heading"
+msgstr ""
+
+#: admin/acf.php:3041
+msgid "Enter in the text to display in the subheading for the events page."
+msgstr ""
+
+#: admin/acf.php:3084
+msgid ""
+"Optional background image. Recommended 2000 pixels wide by 770px high "
+"minimum in a horizontal orientation. Wide-format images work best."
+msgstr ""
+
+#: admin/acf.php:3130 admin/acf.php:3405 admin/acf.php:3732 admin/acf.php:5705
+#: admin/acf.php:6028
+msgid "Optional background color"
+msgstr ""
+
+#: admin/acf.php:3240
+msgid "Events Page Options"
+msgstr ""
+
+#: admin/acf.php:3267
+msgid "Events Display Type"
+msgstr ""
+
+#: admin/acf.php:3270 admin/acf.php:7216 admin/acf.php:11692
+msgid ""
+"Select the style of display you would like to use for this events listing"
+msgstr ""
+
+#: admin/acf.php:3289
+msgid "Events Category"
+msgstr ""
+
+#: admin/acf.php:3292
+msgid ""
+"Would you like to limit the which events show on the page by a category?"
+msgstr ""
+
+#: admin/acf.php:3311
+msgid "Upcoming Events Heading"
+msgstr ""
+
+#: admin/acf.php:3314
+msgid ""
+"Enter in the text you'd like to display above the upcoming events. (Upcoming "
+"events, upcoming shows, upcoming dates, etc.) If left blank, the page title "
+"will be used."
+msgstr ""
+
+#: admin/acf.php:3332
+msgid "Show Past Events"
+msgstr ""
+
+#: admin/acf.php:3335
+msgid ""
+"Would you like to show an archive of past events on a tab next to the "
+"upcoming events?"
+msgstr ""
+
+#: admin/acf.php:3348
+msgid "Past Events Heading"
+msgstr ""
+
+#: admin/acf.php:3351
+msgid ""
+"Enter in the heading for past/archived events. (Previous Dates, Past Events, "
+"Events Archive, etc.)"
+msgstr ""
+
+#: admin/acf.php:3442 admin/acf.php:3769 admin/acf.php:5742 admin/acf.php:6065
+#: admin/acf.php:8340 admin/acf.php:8757 admin/acf.php:9129 admin/acf.php:9595
+msgid "Optional background image. Recommended 2000 pixels wide minimum"
+msgstr ""
+
+#: admin/acf.php:3471 admin/acf.php:6094 admin/acf.php:10211
+#: admin/acf.php:10591 admin/acf.php:11078 admin/acf.php:11495
+#: admin/acf.php:11895 admin/acf.php:12202 admin/acf.php:14030
+#: admin/acf.php:14476
+msgid "Background Image Parallax"
+msgstr ""
+
+#: admin/acf.php:3474 admin/acf.php:6097 admin/acf.php:10214
+#: admin/acf.php:10594 admin/acf.php:11081 admin/acf.php:11498
+#: admin/acf.php:11898 admin/acf.php:12205 admin/acf.php:14033
+#: admin/acf.php:14479
+msgid "Show the background image with a parallax effect."
+msgstr ""
+
+#: admin/acf.php:3598
+msgid "Navigation Options"
+msgstr ""
+
+#: admin/acf.php:3645
+msgid "Portfolio Page Options"
+msgstr ""
+
+#: admin/acf.php:3672
+msgid "Featured Header Height"
+msgstr ""
+
+#: admin/acf.php:3704
+msgid "Header Background"
+msgstr ""
+
+#: admin/acf.php:3875
+msgid "Featured Header Overlay"
+msgstr ""
+
+#: admin/acf.php:3878
+msgid ""
+"Display an overlay in front of the featured header image so the main "
+"headline text is easier to read?"
+msgstr ""
+
+#: admin/acf.php:3891 admin/acf.php:10413
+msgid "Portfolio Category"
+msgstr ""
+
+#: admin/acf.php:3894
+msgid ""
+"Would you like to limit the portfolios that show up on the page by a "
+"category?"
+msgstr ""
+
+#: admin/acf.php:3913 admin/acf.php:5969 admin/acf.php:8055 admin/acf.php:10443
+#: admin/acf.php:10838 admin/acf.php:11340 admin/acf.php:13837
+#: admin/acf.php:14283
+msgid "Order By"
+msgstr ""
+
+#: admin/acf.php:3916 admin/acf.php:10446 admin/acf.php:11343
+msgid "How do you want to display Portfolios?"
+msgstr ""
+
+#: admin/acf.php:3926 admin/acf.php:5982 admin/acf.php:8068 admin/acf.php:10456
+#: admin/acf.php:10851 admin/acf.php:11353 admin/acf.php:13850
+#: admin/acf.php:14296 admin/acf/admin/field-groups.php:525
+msgid "Title"
+msgstr ""
+
+#: admin/acf.php:3964
+msgid "Portfolio Post Options"
+msgstr ""
+
+#: admin/acf.php:3968
+msgid "Change Navigation Type"
+msgstr ""
+
+#: admin/acf.php:3991 admin/acf.php:4321
+msgid "Enable Header Overlay"
+msgstr ""
+
+#: admin/acf.php:4017
+msgid "Enter main heading for the portfolio"
+msgstr ""
+
+#: admin/acf.php:4038
+msgid "Enter secondary heading (goes above main headline on homepage)"
+msgstr ""
+
+#: admin/acf.php:4056 admin/acf.php:4344
+msgid "Heading Font Color"
+msgstr ""
+
+#: admin/acf.php:4059 admin/acf.php:4347
+msgid ""
+"Select the heading color for the post or page, if your featured image is "
+"dark, you'll want a light heading. If your featured image is lighter, you'll "
+"want a dark heading."
+msgstr ""
+
+#: admin/acf.php:4079
+msgid "Masonry Width"
+msgstr ""
+
+#: admin/acf.php:4082
+msgid ""
+"Select the width of the Featured Image that will be showing up on the "
+"homepage and elsewhere. (How wide do you want it's tile to be?)"
+msgstr ""
+
+#: admin/acf.php:4109
+msgid "Portfolio Type"
+msgstr ""
+
+#: admin/acf.php:4112
+msgid ""
+"Select which type of gallery this will be. Lightbox will open on the same "
+"page, and stand alone will be on it's own age embedded on the page."
+msgstr ""
+
+#: admin/acf.php:4131 admin/acf.php:4717
+msgid "Gallery Type"
+msgstr ""
+
+#: admin/acf.php:4134
+msgid "Select how you'd like the stand alone portfolio page laid out."
+msgstr ""
+
+#: admin/acf.php:4170 admin/acf.php:4774 admin/acf.php:5939 admin/acf.php:10869
+#: admin/acf.php:11371
+msgid "Columns"
+msgstr ""
+
+#: admin/acf.php:4173 admin/acf.php:4777
+msgid "Select how many columns you would like to have for thumbnail indexes"
+msgstr ""
+
+#: admin/acf.php:4216
+msgid "Images"
+msgstr ""
+
+#: admin/acf.php:4219
+msgid "Upload images"
+msgstr ""
+
+#: admin/acf.php:4266
+msgid "Post & Page Side Options"
+msgstr ""
+
+#: admin/acf.php:4593
+msgid "Post Format Audio"
+msgstr ""
+
+#: admin/acf.php:4597
+msgid "Audio Link"
+msgstr ""
+
+#: admin/acf.php:4629
+msgid "Embed Display"
+msgstr ""
+
+#: admin/acf.php:4632
+msgid "Display the embed above or below the post content?"
+msgstr ""
+
+#: admin/acf.php:4671
+msgid "Post Format Gallery"
+msgstr ""
+
+#: admin/acf.php:4696
+msgid "Subheading"
+msgstr ""
+
+#: admin/acf.php:4720
+msgid "Select how you'd like this post to display when this page is opened up."
+msgstr ""
+
+#: admin/acf.php:4748 admin/acf.php:7117 admin/acf.php:10094
+msgid "WP Editor"
+msgstr ""
+
+#: admin/acf.php:4751
+msgid ""
+"Enter in your gallery by clicking add media like you normally would with a "
+"Wordpress Gallery"
+msgstr ""
+
+#: admin/acf.php:4834
+msgid "Gallery Photos"
+msgstr ""
+
+#: admin/acf.php:4837
+msgid "Drag & Drop Images onto screen and label appropriately."
+msgstr ""
+
+#: admin/acf.php:4879
+msgid "Post Format Quote"
+msgstr ""
+
+#: admin/acf.php:4883
+msgid "Person"
+msgstr ""
+
+#: admin/acf.php:4886
+msgid "Who said the quote?"
+msgstr ""
+
+#: admin/acf.php:4904
+msgid "Quote Text"
+msgstr ""
+
+#: admin/acf.php:4907
+msgid "Copy & paste the quote. No need to do any formatting."
+msgstr ""
+
+#: admin/acf.php:4925
+msgid "Quote Source"
+msgstr ""
+
+#: admin/acf.php:4928
+msgid ""
+"If you want to include the source of the quote, for example, \"NY Times. "
+"January 8th, 2014\""
+msgstr ""
+
+#: admin/acf.php:4946
+msgid "Quote Link"
+msgstr ""
+
+#: admin/acf.php:4949
+msgid "Copy/paste the URL to the source of the quote if applicable."
+msgstr ""
+
+#: admin/acf.php:4992
+msgid "Post Format Video"
+msgstr ""
+
+#: admin/acf.php:4996
+msgid "Video Link"
+msgstr ""
+
+#: admin/acf.php:5047
+msgid "Project Header Options"
+msgstr ""
+
+#: admin/acf.php:5051
+msgid "Project Name"
+msgstr ""
+
+#: admin/acf.php:5054
+msgid ""
+"Enter the project name, if blank, the title of the project post will be used"
+msgstr ""
+
+#: admin/acf.php:5072
+msgid "Project Sub Heading"
+msgstr ""
+
+#: admin/acf.php:5075
+msgid "Enter a sub heading for the project"
+msgstr ""
+
+#: admin/acf.php:5093
+msgid "Project Hero Heading Type"
+msgstr ""
+
+#: admin/acf.php:5146
+msgid "Enable Overlay"
+msgstr ""
+
+#: admin/acf.php:5149
+msgid "Enable or disable the overlay over the background image"
+msgstr ""
+
+#: admin/acf.php:5165
+msgid "Choose a color for the hero background"
+msgstr ""
+
+#: admin/acf.php:5353
+msgid "Link to your external .webm file for the video background embed"
+msgstr ""
+
+#: admin/acf.php:5450
+msgid "Video Embed Link"
+msgstr ""
+
+#: admin/acf.php:5453
+msgid "Enter the link to the hero video you'd like to embed"
+msgstr ""
+
+#: admin/acf.php:5474
+msgid "Revolution Slider"
+msgstr ""
+
+#: admin/acf.php:5477
+msgid ""
+"Select the Revolution Slider you'd like to display as the hero for the "
+"project page"
+msgstr ""
+
+#: admin/acf.php:5535
+msgid "Video Embed Description"
+msgstr ""
+
+#: admin/acf.php:5538
+msgid ""
+"Enter in any text/html you'd like to display below the heading and "
+"subheading for the hero video. Also supports shortcodes!"
+msgstr ""
+
+#: admin/acf.php:5585
+msgid "Project Page Header Options"
+msgstr ""
+
+#: admin/acf.php:5589
+msgid "Project Page Heading"
+msgstr ""
+
+#: admin/acf.php:5592
+msgid ""
+"Enter in a different page heading. (Or leave blank to use the page title)"
+msgstr ""
+
+#: admin/acf.php:5610
+msgid "Project Page Sub Heading"
+msgstr ""
+
+#: admin/acf.php:5613
+msgid "Enter in an optional sub heading"
+msgstr ""
+
+#: admin/acf.php:5631
+msgid "Project Heading Font Color"
+msgstr ""
+
+#: admin/acf.php:5634
+msgid ""
+"Select the heading color for the project page, if your featured image is "
+"dark, you'll want a light heading. If your featured image is lighter, you'll "
+"want a dark heading."
+msgstr ""
+
+#: admin/acf.php:5654
+msgid "Project Header Overlay"
+msgstr ""
+
+#: admin/acf.php:5868
+msgid "Project Page Options"
+msgstr ""
+
+#: admin/acf.php:5895 admin/acf.php:11288
+msgid "Project Category"
+msgstr ""
+
+#: admin/acf.php:5898
+msgid ""
+"Would you like to limit the which projects show on the page by a category?"
+msgstr ""
+
+#: admin/acf.php:5920 admin/acf.php:11321
+msgid "Select the width for the project listing"
+msgstr ""
+
+#: admin/acf.php:5942
+msgid "Select how many columns you'd like to display for the project listing"
+msgstr ""
+
+#: admin/acf.php:5972
+msgid "What do you want to order Projects by?"
+msgstr ""
+
+#: admin/acf.php:6223
+msgid "Cortex Page Builder Full Sidebar"
+msgstr ""
+
+#: admin/acf.php:6227 admin/acf.php:8206 admin/acf.php:8210
+msgid "Cortex Page Builder"
+msgstr ""
+
+#: admin/acf.php:6245 admin/acf.php:8228
+msgid "Blog Style Posts"
+msgstr ""
+
+#: admin/acf.php:6292 admin/acf.php:6479 admin/acf.php:6669 admin/acf.php:6949
+#: admin/acf.php:8505 admin/acf.php:8922 admin/acf.php:9343 admin/acf.php:9854
+msgid "Filter By Category"
+msgstr ""
+
+#: admin/acf.php:6318 admin/acf.php:6505 admin/acf.php:6695 admin/acf.php:6975
+#: admin/acf.php:8531 admin/acf.php:8948 admin/acf.php:9369 admin/acf.php:9879
+msgid "Filter posts by format type or leave blank to show all post formats"
+msgstr ""
+
+#: admin/acf.php:6361 admin/acf.php:6738 admin/acf.php:6995 admin/acf.php:7280
+#: admin/acf.php:8109 admin/acf.php:8574 admin/acf.php:9412 admin/acf.php:9899
+#: admin/acf.php:10939 admin/acf.php:11756 admin/acf.php:13891
+#: admin/acf.php:14337
+msgid "Display view more button?"
+msgstr ""
+
+#: admin/acf.php:6364 admin/acf.php:6741 admin/acf.php:6998 admin/acf.php:7283
+#: admin/acf.php:8112 admin/acf.php:8577 admin/acf.php:9415 admin/acf.php:9902
+#: admin/acf.php:10942 admin/acf.php:11759 admin/acf.php:13894
+#: admin/acf.php:14340
+msgid "Display a \"view more\" button"
+msgstr ""
+
+#: admin/acf.php:6377 admin/acf.php:6754 admin/acf.php:7011 admin/acf.php:7296
+#: admin/acf.php:8125 admin/acf.php:8590 admin/acf.php:9428 admin/acf.php:9915
+#: admin/acf.php:10955 admin/acf.php:11772 admin/acf.php:13907
+#: admin/acf.php:14353
+msgid "View More Button Link"
+msgstr ""
+
+#: admin/acf.php:6380 admin/acf.php:6757 admin/acf.php:7014 admin/acf.php:8593
+#: admin/acf.php:9431 admin/acf.php:9918 admin/acf.php:10958
+msgid "Enter the link to your posts page"
+msgstr ""
+
+#: admin/acf.php:6574 admin/acf.php:9017
+msgid "Magazine Style Posts"
+msgstr ""
+
+#: admin/acf.php:6621 admin/acf.php:9235
+msgid "Display Date"
+msgstr ""
+
+#: admin/acf.php:6624 admin/acf.php:9238
+msgid "Display the post dates?"
+msgstr ""
+
+#: admin/acf.php:6637 admin/acf.php:9251
+msgid "Display Post Meta"
+msgstr ""
+
+#: admin/acf.php:6640 admin/acf.php:9254
+msgid ""
+"Display the author, category, and 3 most popular post tags associated with "
+"each post? (Individual post meta items can be hidden independently with CSS)"
+msgstr ""
+
+#: admin/acf.php:6653 admin/acf.php:9267
+msgid "Display Post Excerpt & Read More Button"
+msgstr ""
+
+#: admin/acf.php:6656 admin/acf.php:9270
+msgid ""
+"Display a short excerpt underneath the post with a 'read more' button "
+"linking to the full post?"
+msgstr ""
+
+#: admin/acf.php:6809 admin/acf.php:9483
+msgid "Latest Post Featured With Recent Posts"
+msgstr ""
+
+#: admin/acf.php:6856 admin/acf.php:9701
+msgid "Number of Featured Posts"
+msgstr ""
+
+#: admin/acf.php:6859 admin/acf.php:9704
+msgid "How many featured posts would you like to display?"
+msgstr ""
+
+#: admin/acf.php:6878 admin/acf.php:9723
+msgid "Display Featured Post Date"
+msgstr ""
+
+#: admin/acf.php:6881 admin/acf.php:9726
+msgid "Display the featured post date?"
+msgstr ""
+
+#: admin/acf.php:6894 admin/acf.php:9739
+msgid "Display Featured Post Meta"
+msgstr ""
+
+#: admin/acf.php:6897 admin/acf.php:9742
+msgid ""
+"Display the author, category, and 3 most popular post tags associated with "
+"the featured post? (Individual post meta items can be hidden independently "
+"with CSS)"
+msgstr ""
+
+#: admin/acf.php:6910 admin/acf.php:9755
+msgid "Display Featured Post Excerpt & Read More Button"
+msgstr ""
+
+#: admin/acf.php:6913 admin/acf.php:9758
+msgid ""
+"Display a short excerpt underneath the featured post with a 'read more' "
+"button linking to the full post?"
+msgstr ""
+
+#: admin/acf.php:6926 admin/acf.php:9771
+msgid "Number of recent posts to display?"
+msgstr ""
+
+#: admin/acf.php:7166 admin/acf.php:11642
+msgid "Events Listing"
+msgstr ""
+
+#: admin/acf.php:7174 admin/acf.php:7359 admin/acf.php:10373
+#: admin/acf.php:10746 admin/acf.php:11233 admin/acf.php:11650
+#: admin/acf.php:12050
+msgid "Input title for this section"
+msgstr ""
+
+#: admin/acf.php:7195 admin/acf.php:7380 admin/acf.php:10767
+#: admin/acf.php:11254 admin/acf.php:11671 admin/acf.php:12071
+msgid "Input a sub title for this section"
+msgstr ""
+
+#: admin/acf.php:7213 admin/acf.php:11689
+msgid "Event Display Type"
+msgstr ""
+
+#: admin/acf.php:7235 admin/acf.php:11711
+msgid "Limit by category?"
+msgstr ""
+
+#: admin/acf.php:7238 admin/acf.php:11714
+msgid ""
+"If you'd like to limit the event to one specific category please select it "
+"here. The default is to show all events."
+msgstr ""
+
+#: admin/acf.php:7257 admin/acf.php:11733
+msgid "Number of events to display"
+msgstr ""
+
+#: admin/acf.php:7260 admin/acf.php:11736
+msgid "How many events would you like to display?"
+msgstr ""
+
+#: admin/acf.php:7299 admin/acf.php:11775
+msgid "Enter the link to your full events listing page"
+msgstr ""
+
+#: admin/acf.php:7351 admin/acf.php:12042
+msgid "Contact Form"
+msgstr ""
+
+#: admin/acf.php:7398 admin/acf.php:12089
+msgid "Select Contact Form"
+msgstr ""
+
+#: admin/acf.php:7401 admin/acf.php:12092
+msgid "Select which contact form you'd like to display."
+msgstr ""
+
+#: admin/acf.php:7949 admin/acf.php:13731
+msgid "WooCommerce Products Grid"
+msgstr ""
+
+#: admin/acf.php:7954 admin/acf.php:13736 admin/acf.php:14182
+msgid "Content Above Product Grid"
+msgstr ""
+
+#: admin/acf.php:7957 admin/acf.php:13739 admin/acf.php:14185
+msgid ""
+"Enter in any content to display above the product grid. (Title, subtitle, "
+"etc.)"
+msgstr ""
+
+#: admin/acf.php:7972 admin/acf.php:13754 admin/acf.php:14200
+msgid "Product Filter Options"
+msgstr ""
+
+#: admin/acf.php:7975 admin/acf.php:13757 admin/acf.php:14203
+msgid ""
+"If you'd like to limit the product grid to a specific product type, tag, or "
+"category select it here."
+msgstr ""
+
+#: admin/acf.php:7995 admin/acf.php:13777 admin/acf.php:14223
+msgid "Product Category"
+msgstr ""
+
+#: admin/acf.php:7998 admin/acf.php:13780 admin/acf.php:14226
+msgid "Limit the product grid to a category?"
+msgstr ""
+
+#: admin/acf.php:8025 admin/acf.php:13807 admin/acf.php:14253
+msgid "Product Tag"
+msgstr ""
+
+#: admin/acf.php:8028 admin/acf.php:13810 admin/acf.php:14256
+msgid "Limit the product grid to a product tag?"
+msgstr ""
+
+#: admin/acf.php:8058 admin/acf.php:13840 admin/acf.php:14286
+msgid "What order do you want to display the products by?"
+msgstr ""
+
+#: admin/acf.php:8086 admin/acf.php:13868 admin/acf.php:14314
+msgid "Number of Products"
+msgstr ""
+
+#: admin/acf.php:8089 admin/acf.php:13871 admin/acf.php:14317
+msgid ""
+"Select the number of products you'd like to display in the product grid."
+msgstr ""
+
+#: admin/acf.php:8128 admin/acf.php:13910 admin/acf.php:14356
+msgid "Enter the link to your full products listing page"
+msgstr ""
+
+#: admin/acf.php:8446 admin/acf.php:8863 admin/acf.php:9283 admin/acf.php:9794
+msgid "Sidebar"
+msgstr ""
+
+#: admin/acf.php:8449 admin/acf.php:8866 admin/acf.php:9286 admin/acf.php:9797
+msgid "Display a sidebar with posts?"
+msgstr ""
+
+#: admin/acf.php:8477 admin/acf.php:8894 admin/acf.php:9315 admin/acf.php:9826
+msgid "Select a widget area to use for your sidebar"
+msgstr ""
+
+#: admin/acf.php:10046
+msgid "Set Width"
+msgstr ""
+
+#: admin/acf.php:10049
+#, php-format
+msgid ""
+"Select whether to have the slider fill the full viewport width (100% browser "
+"width) or boxed width (100% of the site's content container)"
+msgstr ""
+
+#: admin/acf.php:10182 admin/acf.php:10562 admin/acf.php:11049
+#: admin/acf.php:11466 admin/acf.php:11866 admin/acf.php:12173
+#: admin/acf.php:14001 admin/acf.php:14447
+msgid "Recommended minimum 2000 pixels wide"
+msgstr ""
+
+#: admin/acf.php:10365
+msgid "Masonry Portfolio"
+msgstr ""
+
+#: admin/acf.php:10391 admin/acf.php:10785 admin/acf.php:11272
+msgid "Limit by Category?"
+msgstr ""
+
+#: admin/acf.php:10394
+msgid ""
+"Limit the portfolio gallery by category type? (Select no to show all "
+"categories)"
+msgstr ""
+
+#: admin/acf.php:10416
+msgid ""
+"If you want to organize your portfolios by categories select a specific "
+"category here. Otherwise, leave as default to pull in all portfolios."
+msgstr ""
+
+#: admin/acf.php:10474
+msgid "Number of Portfolios"
+msgstr ""
+
+#: admin/acf.php:10477
+msgid "How many portfolios do you want to display? (Default 10)"
+msgstr ""
+
+#: admin/acf.php:10738
+msgid "Masonry Posts"
+msgstr ""
+
+#: admin/acf.php:10788
+msgid "Limit the posts by category? (Select no to show all categories)"
+msgstr ""
+
+#: admin/acf.php:10807 admin/acf/admin/views/field-group-locations.php:9
+msgid "Post Category"
+msgstr ""
+
+#: admin/acf.php:10810
+msgid ""
+"If you want to organize your posts by categories select a specific category "
+"here. Otherwise, leave as default to pull in all posts."
+msgstr ""
+
+#: admin/acf.php:10841
+msgid "How do you want to display Posts?"
+msgstr ""
+
+#: admin/acf.php:10872
+msgid "How many columns of posts would you like to display?"
+msgstr ""
+
+#: admin/acf.php:10900
+msgid "Show Meta Information for Posts?"
+msgstr ""
+
+#: admin/acf.php:10903
+msgid ""
+"Would you like to display the post date, category, and tags for the posts? "
+"(Post meta will not show for five or six columns due to lack of space.)"
+msgstr ""
+
+#: admin/acf.php:10919
+msgid "Select how many posts you'd like to display"
+msgstr ""
+
+#: admin/acf.php:11225
+msgid "Masonry Projects"
+msgstr ""
+
+#: admin/acf.php:11275
+msgid "Limit the project gallery by category type? "
+msgstr ""
+
+#: admin/acf.php:11291
+msgid ""
+"If you want to organize your projects by categories select a specific "
+"category here. Otherwise, leave as default to pull in all projects."
+msgstr ""
+
+#: admin/acf.php:11374
+msgid "Select how many columns you'd like to display in the projects layout"
+msgstr ""
+
+#: admin/acf.php:14177
+msgid "WooCommerce Products Carousel"
+msgstr ""
+
+#: admin/acf/acf.php:63
+msgid "Advanced Custom Fields"
+msgstr ""
+
+#: admin/acf/acf.php:260 admin/acf/admin/field-group.php:316
+#: admin/acf/admin/field-groups.php:586
+#: admin/acf/admin/views/field-group-options.php:13
+msgid "Disabled"
+msgstr ""
+
+#: admin/acf/acf.php:265
+#, php-format
+msgid "Disabled <span class=\"count\">(%s)</span>"
+msgid_plural "Disabled <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/acf/admin/admin.php:57
+#: admin/acf/admin/views/field-group-options.php:115
+msgid "Custom Fields"
+msgstr ""
+
+#: admin/acf/admin/admin.php:61
+msgid "Field Groups"
+msgstr ""
+
+#: admin/acf/admin/admin.php:62 admin/acf/pro/fields/flexible-content.php:505
+msgid "Add New"
+msgstr ""
+
+#: admin/acf/admin/field-group.php:68 admin/acf/admin/field-group.php:69
+#: admin/acf/admin/field-group.php:71
+msgid "Field group updated."
+msgstr ""
+
+#: admin/acf/admin/field-group.php:70
+msgid "Field group deleted."
+msgstr ""
+
+#: admin/acf/admin/field-group.php:73
+msgid "Field group published."
+msgstr ""
+
+#: admin/acf/admin/field-group.php:74
+msgid "Field group saved."
+msgstr ""
+
+#: admin/acf/admin/field-group.php:75
+msgid "Field group submitted."
+msgstr ""
+
+#: admin/acf/admin/field-group.php:76
+msgid "Field group scheduled for."
+msgstr ""
+
+#: admin/acf/admin/field-group.php:77
+msgid "Field group draft updated."
+msgstr ""
+
+#: admin/acf/admin/field-group.php:176 admin/acf/admin/field-group.php:223
+#: admin/acf/admin/field-groups.php:528
+msgid "Fields"
+msgstr ""
+
+#: admin/acf/admin/field-group.php:177 parts/event-single-left.php:66
+#: parts/event-single-none.php:48 parts/event-single-right.php:48
+msgid "Location"
+msgstr ""
+
+#: admin/acf/admin/field-group.php:178
+msgid "Settings"
+msgstr ""
+
+#: admin/acf/admin/field-group.php:217
+msgid "Move to trash. Are you sure?"
+msgstr ""
+
+#: admin/acf/admin/field-group.php:218
+msgid "checked"
+msgstr ""
+
+#: admin/acf/admin/field-group.php:219
+msgid "No toggle fields available"
+msgstr ""
+
+#: admin/acf/admin/field-group.php:220
+msgid "Field group title is required"
+msgstr ""
+
+#: admin/acf/admin/field-group.php:221 admin/acf/api/api-field-group.php:581
+msgid "copy"
+msgstr ""
+
+#: admin/acf/admin/field-group.php:222
+#: admin/acf/admin/views/field-group-field-conditional-logic.php:62
+#: admin/acf/admin/views/field-group-field-conditional-logic.php:162
+#: admin/acf/admin/views/field-group-locations.php:59
+#: admin/acf/admin/views/field-group-locations.php:135
+#: admin/acf/api/api-helpers.php:3401
+msgid "or"
+msgstr ""
+
+#: admin/acf/admin/field-group.php:224
+msgid "Parent fields"
+msgstr ""
+
+#: admin/acf/admin/field-group.php:225
+msgid "Sibling fields"
+msgstr ""
+
+#: admin/acf/admin/field-group.php:226
+msgid "Move Custom Field"
+msgstr ""
+
+#: admin/acf/admin/field-group.php:227
+msgid "This field cannot be moved until its changes have been saved"
+msgstr ""
+
+#: admin/acf/admin/field-group.php:228
+msgid "Null"
+msgstr ""
+
+#: admin/acf/admin/field-group.php:229 admin/acf/core/input.php:217
+msgid "The changes you made will be lost if you navigate away from this page"
+msgstr ""
+
+#: admin/acf/admin/field-group.php:230
+msgid "The string \"field_\" may not be used at the start of a field name"
+msgstr ""
+
+#: admin/acf/admin/field-group.php:286
+msgid "Field Keys"
+msgstr ""
+
+#: admin/acf/admin/field-group.php:316
+#: admin/acf/admin/views/field-group-options.php:12
+#: admin/tgm/class-tgm-plugin-activation.php:2215
+msgid "Active"
+msgstr ""
+
+#: admin/acf/admin/field-group.php:785
+msgid "Front Page"
+msgstr ""
+
+#: admin/acf/admin/field-group.php:786
+msgid "Posts Page"
+msgstr ""
+
+#: admin/acf/admin/field-group.php:787
+msgid "Top Level Page (no parent)"
+msgstr ""
+
+#: admin/acf/admin/field-group.php:788
+msgid "Parent Page (has children)"
+msgstr ""
+
+#: admin/acf/admin/field-group.php:789
+msgid "Child Page (has parent)"
+msgstr ""
+
+#: admin/acf/admin/field-group.php:805
+msgid "Default Template"
+msgstr ""
+
+#: admin/acf/admin/field-group.php:827
+msgid "Logged in"
+msgstr ""
+
+#: admin/acf/admin/field-group.php:828
+msgid "Viewing front end"
+msgstr ""
+
+#: admin/acf/admin/field-group.php:829
+msgid "Viewing back end"
+msgstr ""
+
+#: admin/acf/admin/field-group.php:848
+msgid "Super Admin"
+msgstr ""
+
+#: admin/acf/admin/field-group.php:859 admin/acf/admin/field-group.php:867
+#: admin/acf/admin/field-group.php:881 admin/acf/admin/field-group.php:888
+#: admin/acf/admin/field-group.php:903 admin/acf/admin/field-group.php:913
+#: admin/acf/fields/file.php:235 admin/acf/fields/image.php:226
+#: admin/acf/pro/fields/gallery.php:661
+msgid "All"
+msgstr ""
+
+#: admin/acf/admin/field-group.php:868
+msgid "Add / Edit"
+msgstr ""
+
+#: admin/acf/admin/field-group.php:869
+msgid "Register"
+msgstr ""
+
+#: admin/acf/admin/field-group.php:1100
+msgid "Move Complete."
+msgstr ""
+
+#: admin/acf/admin/field-group.php:1101
+#, php-format
+msgid "The %s field can now be found in the %s field group"
+msgstr ""
+
+#: admin/acf/admin/field-group.php:1103
+msgid "Close Window"
+msgstr ""
+
+#: admin/acf/admin/field-group.php:1138
+msgid "Please select the destination for this field"
+msgstr ""
+
+#: admin/acf/admin/field-group.php:1145
+msgid "Move Field"
+msgstr ""
+
+#: admin/acf/admin/field-groups.php:74
+#, php-format
+msgid "Active <span class=\"count\">(%s)</span>"
+msgid_plural "Active <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/acf/admin/field-groups.php:142
+#, php-format
+msgid "Field group duplicated. %s"
+msgstr ""
+
+#: admin/acf/admin/field-groups.php:146
+#, php-format
+msgid "%s field group duplicated."
+msgid_plural "%s field groups duplicated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/acf/admin/field-groups.php:228
+#, php-format
+msgid "Field group synchronised. %s"
+msgstr ""
+
+#: admin/acf/admin/field-groups.php:232
+#, php-format
+msgid "%s field group synchronised."
+msgid_plural "%s field groups synchronised."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/acf/admin/field-groups.php:412 admin/acf/admin/field-groups.php:576
+msgid "Sync available"
+msgstr ""
+
+#: admin/acf/admin/field-groups.php:527
+#: admin/acf/admin/views/field-group-options.php:5
+#: admin/tgm/class-tgm-plugin-activation.php:2443
+msgid "Status"
+msgstr ""
+
+#: admin/acf/admin/field-groups.php:624 admin/acf/admin/settings-info.php:76
+#: admin/acf/pro/admin/views/settings-updates.php:110
+msgid "Changelog"
+msgstr ""
+
+#: admin/acf/admin/field-groups.php:625
+msgid "See what's new in"
+msgstr ""
+
+#: admin/acf/admin/field-groups.php:625
+msgid "version"
+msgstr ""
+
+#: admin/acf/admin/field-groups.php:627
+msgid "Resources"
+msgstr ""
+
+#: admin/acf/admin/field-groups.php:629
+msgid "Getting Started"
+msgstr ""
+
+#: admin/acf/admin/field-groups.php:630
+#: admin/acf/pro/admin/settings-updates.php:73
+#: admin/acf/pro/admin/views/settings-updates.php:17
+msgid "Updates"
+msgstr ""
+
+#: admin/acf/admin/field-groups.php:631
+msgid "Field Types"
+msgstr ""
+
+#: admin/acf/admin/field-groups.php:632
+msgid "Functions"
+msgstr ""
+
+#: admin/acf/admin/field-groups.php:633
+msgid "Actions"
+msgstr ""
+
+#: admin/acf/admin/field-groups.php:634 admin/acf/fields/relationship.php:717
+msgid "Filters"
+msgstr ""
+
+#: admin/acf/admin/field-groups.php:635
+msgid "'How to' guides"
+msgstr ""
+
+#: admin/acf/admin/field-groups.php:636
+msgid "Tutorials"
+msgstr ""
+
+#: admin/acf/admin/field-groups.php:641
+msgid "Created by"
+msgstr ""
+
+#: admin/acf/admin/field-groups.php:684
+msgid "Duplicate this item"
+msgstr ""
+
+#: admin/acf/admin/field-groups.php:684 admin/acf/admin/field-groups.php:700
+#: admin/acf/admin/views/field-group-field.php:58
+#: admin/acf/pro/fields/flexible-content.php:504
+msgid "Duplicate"
+msgstr ""
+
+#: admin/acf/admin/field-groups.php:746
+#, php-format
+msgid "Select %s"
+msgstr ""
+
+#: admin/acf/admin/field-groups.php:754
+msgid "Synchronise field group"
+msgstr ""
+
+#: admin/acf/admin/field-groups.php:754 admin/acf/admin/field-groups.php:771
+msgid "Sync"
+msgstr ""
+
+#: admin/acf/admin/settings-addons.php:51
+#: admin/acf/admin/views/settings-addons.php:9
+msgid "Add-ons"
+msgstr ""
+
+#: admin/acf/admin/settings-addons.php:87
+msgid "<b>Error</b>. Could not load add-ons list"
+msgstr ""
+
+#: admin/acf/admin/settings-info.php:50
+msgid "Info"
+msgstr ""
+
+#: admin/acf/admin/settings-info.php:75
+msgid "What's New"
+msgstr ""
+
+#: admin/acf/admin/settings-tools.php:54
+#: admin/acf/admin/views/settings-tools-export.php:23
+#: admin/acf/admin/views/settings-tools.php:31
+msgid "Tools"
+msgstr ""
+
+#: admin/acf/admin/settings-tools.php:151
+#: admin/acf/admin/settings-tools.php:369
+msgid "No field groups selected"
+msgstr ""
+
+#: admin/acf/admin/settings-tools.php:188
+msgid "No file selected"
+msgstr ""
+
+#: admin/acf/admin/settings-tools.php:201
+msgid "Error uploading file. Please try again"
+msgstr ""
+
+#: admin/acf/admin/settings-tools.php:210
+msgid "Incorrect file type"
+msgstr ""
+
+#: admin/acf/admin/settings-tools.php:227
+msgid "Import file empty"
+msgstr ""
+
+#: admin/acf/admin/settings-tools.php:323
+#, php-format
+msgid "<b>Success</b>. Import tool added %s field groups: %s"
+msgstr ""
+
+#: admin/acf/admin/settings-tools.php:332
+#, php-format
+msgid ""
+"<b>Warning</b>. Import tool detected %s field groups already exist and have "
+"been ignored: %s"
+msgstr ""
+
+#: admin/acf/admin/update.php:113
+msgid "Upgrade ACF"
+msgstr ""
+
+#: admin/acf/admin/update.php:143
+msgid "Review sites & upgrade"
+msgstr ""
+
+#: admin/acf/admin/update.php:298
+msgid "Upgrade"
+msgstr ""
+
+#: admin/acf/admin/update.php:328
+msgid "Upgrade Database"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-field-conditional-logic.php:29
+msgid "Conditional Logic"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-field-conditional-logic.php:62
+msgid "Show this field if"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-field-conditional-logic.php:111
+#: admin/acf/admin/views/field-group-locations.php:34
+msgid "is equal to"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-field-conditional-logic.php:112
+#: admin/acf/admin/views/field-group-locations.php:35
+msgid "is not equal to"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-field-conditional-logic.php:149
+#: admin/acf/admin/views/field-group-locations.php:122
+msgid "and"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-field-conditional-logic.php:164
+#: admin/acf/admin/views/field-group-locations.php:137
+msgid "Add rule group"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-field.php:54
+#: admin/acf/admin/views/field-group-field.php:57
+msgid "Edit field"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-field.php:57
+#: admin/acf/pro/fields/gallery.php:363 inc/template-tags.php:242
+#: page-builder/content-basic_title_text-ns.php:80
+#: page-builder/content-basic_title_text.php:81
+#: page-builder/content-contact_form-ns.php:25
+#: page-builder/content-contact_form.php:46
+#: page-builder/content-custom_code.php:8
+#: page-builder/content-events_listing-ns.php:144
+#: page-builder/content-events_listing.php:169
+#: page-builder/content-full_width_image-ns.php:26
+#: page-builder/content-full_width_image.php:29
+#: page-builder/content-full_width_slider-ns.php:9
+#: page-builder/content-full_width_slider.php:12
+#: page-builder/content-hero.php:245
+#: page-builder/content-masonry_portfolio.php:118
+#: page-builder/content-masonry_portfolio.php:163
+#: page-builder/content-masonry_posts.php:114
+#: page-builder/content-masonry_projects.php:106
+#: page-builder/content-simple_slider-ns.php:54
+#: page-builder/content-simple_slider.php:57
+#: page-builder/content-woocommerce-grid-ns.php:172
+#: page-builder/content-woocommerce-grid.php:196
+#: page-builder/content-woocommerce-slider.php:188
+#: page-builder/content-wp_editor-ns.php:14
+#: page-builder/content-wp_editor.php:37 page_events.php:396
+#: page_portfolios.php:162 page_portfolios.php:207 page_projects.php:210
+#: parts/archive-masonry.php:47
+msgid "Edit"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-field.php:58
+msgid "Duplicate field"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-field.php:59
+msgid "Move field to another group"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-field.php:59
+msgid "Move"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-field.php:60
+msgid "Delete field"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-field.php:60
+#: admin/acf/pro/fields/flexible-content.php:503
+msgid "Delete"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-field.php:68
+#: admin/acf/fields/oembed.php:225 admin/acf/fields/taxonomy.php:912
+msgid "Error"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-field.php:68
+msgid "Field type does not exist"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-field.php:81
+msgid "Field Label"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-field.php:82
+msgid "This is the name which will appear on the EDIT page"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-field.php:94
+msgid "Field Name"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-field.php:95
+msgid "Single word, no spaces. Underscores and dashes allowed"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-field.php:107
+msgid "Field Type"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-field.php:121 admin/acf/fields/tab.php:134
+msgid "Instructions"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-field.php:122
+msgid "Instructions for authors. Shown when submitting data"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-field.php:133
+msgid "Required?"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-field.php:162
+msgid "Wrapper Attributes"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-field.php:168
+msgid "width"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-field.php:182
+msgid "class"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-field.php:195
+msgid "id"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-field.php:207
+msgid "Close Field"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-fields.php:18
+#: admin/acf/admin/views/settings-info.php:111
+msgid "New Field"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-fields.php:29
+msgid "Order"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-fields.php:30
+#: admin/acf/pro/fields/flexible-content.php:530
+msgid "Label"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-fields.php:31
+#: admin/acf/pro/fields/flexible-content.php:543
+msgid "Name"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-fields.php:32
+#: admin/tgm/class-tgm-plugin-activation.php:2438
+msgid "Type"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-fields.php:44
+msgid ""
+"No fields. Click the <strong>+ Add Field</strong> button to create your "
+"first field."
+msgstr ""
+
+#: admin/acf/admin/views/field-group-fields.php:51
+msgid "Drag and drop to reorder"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-fields.php:54
+msgid "+ Add Field"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-locations.php:5
+#: admin/acf/admin/views/field-group-locations.php:11
+msgid "Post"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-locations.php:6
+#: admin/acf/fields/relationship.php:723
+msgid "Post Type"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-locations.php:7
+msgid "Post Status"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-locations.php:8
+msgid "Post Format"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-locations.php:10
+msgid "Post Taxonomy"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-locations.php:13
+#: admin/acf/admin/views/field-group-locations.php:17
+msgid "Page"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-locations.php:14
+msgid "Page Template"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-locations.php:15
+msgid "Page Type"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-locations.php:16
+msgid "Page Parent"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-locations.php:19
+#: admin/acf/fields/user.php:36
+msgid "User"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-locations.php:20
+msgid "Current User"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-locations.php:21
+msgid "Current User Role"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-locations.php:22
+msgid "User Form"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-locations.php:23
+msgid "User Role"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-locations.php:25
+#: admin/acf/pro/admin/options-page.php:48
+msgid "Forms"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-locations.php:26
+msgid "Attachment"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-locations.php:27
+msgid "Taxonomy Term"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-locations.php:28
+msgid "Comment"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-locations.php:29
+msgid "Widget"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-locations.php:41
+msgid "Rules"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-locations.php:42
+msgid ""
+"Create a set of rules to determine which edit screens will use these "
+"advanced custom fields"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-locations.php:59
+msgid "Show this field group if"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-options.php:20
+msgid "Style"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-options.php:27
+msgid "Standard (WP metabox)"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-options.php:28
+msgid "Seamless (no metabox)"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-options.php:35
+msgid "Position"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-options.php:42
+msgid "High (after title)"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-options.php:43
+msgid "Normal (after content)"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-options.php:44
+msgid "Side"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-options.php:52
+msgid "Label placement"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-options.php:59
+#: admin/acf/fields/tab.php:148
+msgid "Top aligned"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-options.php:60
+#: admin/acf/fields/tab.php:149
+msgid "Left Aligned"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-options.php:67
+msgid "Instruction placement"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-options.php:74
+msgid "Below labels"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-options.php:75
+msgid "Below fields"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-options.php:82
+msgid "Order No."
+msgstr ""
+
+#: admin/acf/admin/views/field-group-options.php:83
+msgid "Field groups with a lower order will appear first"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-options.php:94
+msgid "Shown in field group list"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-options.php:104
+msgid "Hide on screen"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-options.php:105
+msgid "<b>Select</b> items to <b>hide</b> them from the edit screen."
+msgstr ""
+
+#: admin/acf/admin/views/field-group-options.php:105
+msgid ""
+"If multiple field groups appear on an edit screen, the first field group's "
+"options will be used (the one with the lowest order number)"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-options.php:112
+msgid "Permalink"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-options.php:113
+msgid "Content Editor"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-options.php:114
+msgid "Excerpt"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-options.php:116
+msgid "Discussion"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-options.php:117
+msgid "Comments"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-options.php:118
+msgid "Revisions"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-options.php:119
+msgid "Slug"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-options.php:120
+msgid "Author"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-options.php:121
+msgid "Format"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-options.php:122
+msgid "Page Attributes"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-options.php:123
+#: admin/acf/fields/relationship.php:736
+msgid "Featured Image"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-options.php:124
+msgid "Categories"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-options.php:125
+msgid "Tags"
+msgstr ""
+
+#: admin/acf/admin/views/field-group-options.php:126
+msgid "Send Trackbacks"
+msgstr ""
+
+#: admin/acf/admin/views/settings-addons.php:23
+msgid "Download & Install"
+msgstr ""
+
+#: admin/acf/admin/views/settings-addons.php:42
+msgid "Installed"
+msgstr ""
+
+#: admin/acf/admin/views/settings-info.php:9
+msgid "Welcome to Advanced Custom Fields"
+msgstr ""
+
+#: admin/acf/admin/views/settings-info.php:10
+#, php-format
+msgid ""
+"Thank you for updating! ACF %s is bigger and better than ever before. We "
+"hope you like it."
+msgstr ""
+
+#: admin/acf/admin/views/settings-info.php:23
+msgid "A smoother custom field experience"
+msgstr ""
+
+#: admin/acf/admin/views/settings-info.php:28
+msgid "Improved Usability"
+msgstr ""
+
+#: admin/acf/admin/views/settings-info.php:29
+msgid ""
+"Including the popular Select2 library has improved both usability and speed "
+"across a number of field types including post object, page link, taxonomy "
+"and select."
+msgstr ""
+
+#: admin/acf/admin/views/settings-info.php:33
+msgid "Improved Design"
+msgstr ""
+
+#: admin/acf/admin/views/settings-info.php:34
+msgid ""
+"Many fields have undergone a visual refresh to make ACF look better than "
+"ever! Noticeable changes are seen on the gallery, relationship and oEmbed "
+"(new) fields!"
+msgstr ""
+
+#: admin/acf/admin/views/settings-info.php:38
+msgid "Improved Data"
+msgstr ""
+
+#: admin/acf/admin/views/settings-info.php:39
+msgid ""
+"Redesigning the data architecture has allowed sub fields to live "
+"independently from their parents. This allows you to drag and drop fields in "
+"and out of parent fields!"
+msgstr ""
+
+#: admin/acf/admin/views/settings-info.php:45
+msgid "Goodbye Add-ons. Hello PRO"
+msgstr ""
+
+#: admin/acf/admin/views/settings-info.php:50
+msgid "Introducing ACF PRO"
+msgstr ""
+
+#: admin/acf/admin/views/settings-info.php:51
+msgid ""
+"We're changing the way premium functionality is delivered in an exciting way!"
+msgstr ""
+
+#: admin/acf/admin/views/settings-info.php:52
+#, php-format
+msgid ""
+"All 4 premium add-ons have been combined into a new <a href=\"%s\">Pro "
+"version of ACF</a>. With both personal and developer licenses available, "
+"premium functionality is more affordable and accessible than ever before!"
+msgstr ""
+
+#: admin/acf/admin/views/settings-info.php:56
+msgid "Powerful Features"
+msgstr ""
+
+#: admin/acf/admin/views/settings-info.php:57
+msgid ""
+"ACF PRO contains powerful features such as repeatable data, flexible content "
+"layouts, a beautiful gallery field and the ability to create extra admin "
+"options pages!"
+msgstr ""
+
+#: admin/acf/admin/views/settings-info.php:58
+#, php-format
+msgid "Read more about <a href=\"%s\">ACF PRO features</a>."
+msgstr ""
+
+#: admin/acf/admin/views/settings-info.php:62
+msgid "Easy Upgrading"
+msgstr ""
+
+#: admin/acf/admin/views/settings-info.php:63
+#, php-format
+msgid ""
+"To help make upgrading easy, <a href=\"%s\">login to your store account</a> "
+"and claim a free copy of ACF PRO!"
+msgstr ""
+
+#: admin/acf/admin/views/settings-info.php:64
+#, php-format
+msgid ""
+"We also wrote an <a href=\"%s\">upgrade guide</a> to answer any questions, "
+"but if you do have one, please contact our support team via the <a href=\"%s"
+"\">help desk</a>"
+msgstr ""
+
+#: admin/acf/admin/views/settings-info.php:72
+msgid "Under the Hood"
+msgstr ""
+
+#: admin/acf/admin/views/settings-info.php:77
+msgid "Smarter field settings"
+msgstr ""
+
+#: admin/acf/admin/views/settings-info.php:78
+msgid "ACF now saves its field settings as individual post objects"
+msgstr ""
+
+#: admin/acf/admin/views/settings-info.php:82
+msgid "More AJAX"
+msgstr ""
+
+#: admin/acf/admin/views/settings-info.php:83
+msgid "More fields use AJAX powered search to speed up page loading"
+msgstr ""
+
+#: admin/acf/admin/views/settings-info.php:87
+msgid "Local JSON"
+msgstr ""
+
+#: admin/acf/admin/views/settings-info.php:88
+msgid "New auto export to JSON feature improves speed"
+msgstr ""
+
+#: admin/acf/admin/views/settings-info.php:94
+msgid "Better version control"
+msgstr ""
+
+#: admin/acf/admin/views/settings-info.php:95
+msgid ""
+"New auto export to JSON feature allows field settings to be version "
+"controlled"
+msgstr ""
+
+#: admin/acf/admin/views/settings-info.php:99
+msgid "Swapped XML for JSON"
+msgstr ""
+
+#: admin/acf/admin/views/settings-info.php:100
+msgid "Import / Export now uses JSON in favour of XML"
+msgstr ""
+
+#: admin/acf/admin/views/settings-info.php:104
+msgid "New Forms"
+msgstr ""
+
+#: admin/acf/admin/views/settings-info.php:105
+msgid "Fields can now be mapped to comments, widgets and all user forms!"
+msgstr ""
+
+#: admin/acf/admin/views/settings-info.php:112
+msgid "A new field for embedding content has been added"
+msgstr ""
+
+#: admin/acf/admin/views/settings-info.php:116
+msgid "New Gallery"
+msgstr ""
+
+#: admin/acf/admin/views/settings-info.php:117
+msgid "The gallery field has undergone a much needed facelift"
+msgstr ""
+
+#: admin/acf/admin/views/settings-info.php:121
+msgid "New Settings"
+msgstr ""
+
+#: admin/acf/admin/views/settings-info.php:122
+msgid ""
+"Field group settings have been added for label placement and instruction "
+"placement"
+msgstr ""
+
+#: admin/acf/admin/views/settings-info.php:128
+msgid "Better Front End Forms"
+msgstr ""
+
+#: admin/acf/admin/views/settings-info.php:129
+msgid "acf_form() can now create a new post on submission"
+msgstr ""
+
+#: admin/acf/admin/views/settings-info.php:133
+msgid "Better Validation"
+msgstr ""
+
+#: admin/acf/admin/views/settings-info.php:134
+msgid "Form validation is now done via PHP + AJAX in favour of only JS"
+msgstr ""
+
+#: admin/acf/admin/views/settings-info.php:138
+msgid "Relationship Field"
+msgstr ""
+
+#: admin/acf/admin/views/settings-info.php:139
+msgid ""
+"New Relationship field setting for 'Filters' (Search, Post Type, Taxonomy)"
+msgstr ""
+
+#: admin/acf/admin/views/settings-info.php:145
+msgid "Moving Fields"
+msgstr ""
+
+#: admin/acf/admin/views/settings-info.php:146
+msgid ""
+"New field group functionality allows you to move a field between groups & "
+"parents"
+msgstr ""
+
+#: admin/acf/admin/views/settings-info.php:150
+#: admin/acf/fields/page_link.php:36
+msgid "Page Link"
+msgstr ""
+
+#: admin/acf/admin/views/settings-info.php:151
+msgid "New archives group in page_link field selection"
+msgstr ""
+
+#: admin/acf/admin/views/settings-info.php:155
+msgid "Better Options Pages"
+msgstr ""
+
+#: admin/acf/admin/views/settings-info.php:156
+msgid ""
+"New functions for options page allow creation of both parent and child menu "
+"pages"
+msgstr ""
+
+#: admin/acf/admin/views/settings-info.php:165
+#, php-format
+msgid "We think you'll love the changes in %s."
+msgstr ""
+
+#: admin/acf/admin/views/settings-tools-export.php:27
+msgid "Export Field Groups to PHP"
+msgstr ""
+
+#: admin/acf/admin/views/settings-tools-export.php:31
+msgid ""
+"The following code can be used to register a local version of the selected "
+"field group(s). A local field group can provide many benefits such as faster "
+"load times, version control & dynamic fields/settings. Simply copy and paste "
+"the following code to your theme's functions.php file or include it within "
+"an external file."
+msgstr ""
+
+#: admin/acf/admin/views/settings-tools.php:5
+msgid "Select Field Groups"
+msgstr ""
+
+#: admin/acf/admin/views/settings-tools.php:35
+msgid "Export Field Groups"
+msgstr ""
+
+#: admin/acf/admin/views/settings-tools.php:38
+msgid ""
+"Select the field groups you would like to export and then select your export "
+"method. Use the download button to export to a .json file which you can then "
+"import to another ACF installation. Use the generate button to export to PHP "
+"code which you can place in your theme."
+msgstr ""
+
+#: admin/acf/admin/views/settings-tools.php:50
+msgid "Download export file"
+msgstr ""
+
+#: admin/acf/admin/views/settings-tools.php:51
+msgid "Generate export code"
+msgstr ""
+
+#: admin/acf/admin/views/settings-tools.php:64
+msgid "Import Field Groups"
+msgstr ""
+
+#: admin/acf/admin/views/settings-tools.php:67
+msgid ""
+"Select the Advanced Custom Fields JSON file you would like to import. When "
+"you click the import button below, ACF will import the field groups."
+msgstr ""
+
+#: admin/acf/admin/views/settings-tools.php:77 admin/acf/fields/file.php:46
+msgid "Select File"
+msgstr ""
+
+#: admin/acf/admin/views/settings-tools.php:86
+msgid "Import"
+msgstr ""
+
+#: admin/acf/admin/views/update-network.php:8
+#: admin/acf/admin/views/update.php:8
+msgid "Advanced Custom Fields Database Upgrade"
+msgstr ""
+
+#: admin/acf/admin/views/update-network.php:10
+msgid ""
+"The following sites require a DB upgrade. Check the ones you want to update "
+"and then click Upgrade Database."
+msgstr ""
+
+#: admin/acf/admin/views/update-network.php:19
+#: admin/acf/admin/views/update-network.php:27
+msgid "Site"
+msgstr ""
+
+#: admin/acf/admin/views/update-network.php:47
+#, php-format
+msgid "Site requires database upgrade from %s to %s"
+msgstr ""
+
+#: admin/acf/admin/views/update-network.php:49
+msgid "Site is up to date"
+msgstr ""
+
+#: admin/acf/admin/views/update-network.php:62
+#: admin/acf/admin/views/update.php:16
+msgid "Database Upgrade complete"
+msgstr ""
+
+#: admin/acf/admin/views/update-network.php:62
+msgid "Return to network dashboard"
+msgstr ""
+
+#: admin/acf/admin/views/update-network.php:101
+#: admin/acf/admin/views/update-notice.php:35
+msgid ""
+"It is strongly recommended that you backup your database before proceeding. "
+"Are you sure you wish to run the updater now?"
+msgstr ""
+
+#: admin/acf/admin/views/update-network.php:157
+msgid "Upgrade complete"
+msgstr ""
+
+#: admin/acf/admin/views/update-network.php:161
+msgid "Upgrading data to"
+msgstr ""
+
+#: admin/acf/admin/views/update-notice.php:23
+msgid "Database Upgrade Required"
+msgstr ""
+
+#: admin/acf/admin/views/update-notice.php:25
+#, php-format
+msgid "Thank you for updating to %s v%s!"
+msgstr ""
+
+#: admin/acf/admin/views/update-notice.php:25
+msgid ""
+"Before you start using the new awesome features, please update your database "
+"to the newest version."
+msgstr ""
+
+#: admin/acf/admin/views/update.php:12
+msgid "Reading upgrade tasks..."
+msgstr ""
+
+#: admin/acf/admin/views/update.php:14
+#, php-format
+msgid "Upgrading data to version %s"
+msgstr ""
+
+#: admin/acf/admin/views/update.php:16
+msgid "See what's new"
+msgstr ""
+
+#: admin/acf/admin/views/update.php:110
+msgid "No updates available"
+msgstr ""
+
+#: admin/acf/api/api-helpers.php:909
+msgid "Thumbnail"
+msgstr ""
+
+#: admin/acf/api/api-helpers.php:910
+msgid "Medium"
+msgstr ""
+
+#: admin/acf/api/api-helpers.php:911
+msgid "Large"
+msgstr ""
+
+#: admin/acf/api/api-helpers.php:959
+msgid "Full Size"
+msgstr ""
+
+#: admin/acf/api/api-helpers.php:1149 admin/acf/api/api-helpers.php:1711
+msgid "(no title)"
+msgstr ""
+
+#: admin/acf/api/api-helpers.php:3322
+#, php-format
+msgid "Image width must be at least %dpx."
+msgstr ""
+
+#: admin/acf/api/api-helpers.php:3327
+#, php-format
+msgid "Image width must not exceed %dpx."
+msgstr ""
+
+#: admin/acf/api/api-helpers.php:3343
+#, php-format
+msgid "Image height must be at least %dpx."
+msgstr ""
+
+#: admin/acf/api/api-helpers.php:3348
+#, php-format
+msgid "Image height must not exceed %dpx."
+msgstr ""
+
+#: admin/acf/api/api-helpers.php:3366
+#, php-format
+msgid "File size must be at least %s."
+msgstr ""
+
+#: admin/acf/api/api-helpers.php:3371
+#, php-format
+msgid "File size must must not exceed %s."
+msgstr ""
+
+#: admin/acf/api/api-helpers.php:3405
+#, php-format
+msgid "File type must be %s."
+msgstr ""
+
+#: admin/acf/api/api-template.php:1183 admin/acf/pro/fields/gallery.php:572
+#: admin/tgm/class-tgm-plugin-activation.php:2609
+msgid "Update"
+msgstr ""
+
+#: admin/acf/api/api-template.php:1184
+msgid "Post updated"
+msgstr ""
+
+#: admin/acf/core/field.php:131
+msgid "Basic"
+msgstr ""
+
+#: admin/acf/core/field.php:133
+msgid "Choice"
+msgstr ""
+
+#: admin/acf/core/field.php:134
+msgid "Relational"
+msgstr ""
+
+#: admin/acf/core/field.php:136 admin/acf/fields/checkbox.php:226
+#: admin/acf/fields/radio.php:231 admin/acf/pro/fields/flexible-content.php:500
+#: admin/acf/pro/fields/flexible-content.php:549
+#: admin/acf/pro/fields/repeater.php:467
+msgid "Layout"
+msgstr ""
+
+#: admin/acf/core/input.php:218
+msgid "Expand Details"
+msgstr ""
+
+#: admin/acf/core/input.php:219
+msgid "Collapse Details"
+msgstr ""
+
+#: admin/acf/core/input.php:220
+msgid "Validation successful"
+msgstr ""
+
+#: admin/acf/core/input.php:221
+msgid "Validation failed"
+msgstr ""
+
+#: admin/acf/core/input.php:222
+msgid "1 field requires attention"
+msgstr ""
+
+#: admin/acf/core/input.php:223
+#, php-format
+msgid "%d fields require attention"
+msgstr ""
+
+#: admin/acf/core/input.php:224
+msgid "Restricted"
+msgstr ""
+
+#: admin/acf/core/input.php:541
+#, php-format
+msgid "%s value is required"
+msgstr ""
+
+#: admin/acf/fields/checkbox.php:36 admin/acf/fields/taxonomy.php:778
+msgid "Checkbox"
+msgstr ""
+
+#: admin/acf/fields/checkbox.php:144
+msgid "Toggle All"
+msgstr ""
+
+#: admin/acf/fields/checkbox.php:208 admin/acf/fields/radio.php:193
+#: admin/acf/fields/select.php:354
+msgid "Choices"
+msgstr ""
+
+#: admin/acf/fields/checkbox.php:209 admin/acf/fields/radio.php:194
+#: admin/acf/fields/select.php:355
+msgid "Enter each choice on a new line."
+msgstr ""
+
+#: admin/acf/fields/checkbox.php:209 admin/acf/fields/radio.php:194
+#: admin/acf/fields/select.php:355
+msgid "For more control, you may specify both a value and label like this:"
+msgstr ""
+
+#: admin/acf/fields/checkbox.php:209 admin/acf/fields/radio.php:194
+#: admin/acf/fields/select.php:355
+msgid "red : Red"
+msgstr ""
+
+#: admin/acf/fields/checkbox.php:217 admin/acf/fields/color_picker.php:155
+#: admin/acf/fields/email.php:124 admin/acf/fields/number.php:150
+#: admin/acf/fields/radio.php:222 admin/acf/fields/select.php:363
+#: admin/acf/fields/text.php:148 admin/acf/fields/textarea.php:145
+#: admin/acf/fields/true_false.php:115 admin/acf/fields/url.php:117
+#: admin/acf/fields/wysiwyg.php:376
+msgid "Default Value"
+msgstr ""
+
+#: admin/acf/fields/checkbox.php:218 admin/acf/fields/select.php:364
+msgid "Enter each default value on a new line"
+msgstr ""
+
+#: admin/acf/fields/checkbox.php:232 admin/acf/fields/radio.php:237
+msgid "Vertical"
+msgstr ""
+
+#: admin/acf/fields/checkbox.php:233 admin/acf/fields/radio.php:238
+msgid "Horizontal"
+msgstr ""
+
+#: admin/acf/fields/checkbox.php:240
+msgid "Toggle"
+msgstr ""
+
+#: admin/acf/fields/checkbox.php:241
+msgid "Prepend an extra checkbox to toggle all choices"
+msgstr ""
+
+#: admin/acf/fields/color_picker.php:36
+msgid "Color Picker"
+msgstr ""
+
+#: admin/acf/fields/color_picker.php:83
+msgid "Clear"
+msgstr ""
+
+#: admin/acf/fields/color_picker.php:84
+msgid "Default"
+msgstr ""
+
+#: admin/acf/fields/color_picker.php:85
+msgid "Select Color"
+msgstr ""
+
+#: admin/acf/fields/color_picker.php:86
+msgid "Current Color"
+msgstr ""
+
+#: admin/acf/fields/date_picker.php:36
+msgid "Date Picker"
+msgstr ""
+
+#: admin/acf/fields/date_picker.php:174
+msgid "Display format"
+msgstr ""
+
+#: admin/acf/fields/date_picker.php:175
+msgid "The format displayed when editing a post"
+msgstr ""
+
+#: admin/acf/fields/date_picker.php:189
+msgid "Return format"
+msgstr ""
+
+#: admin/acf/fields/date_picker.php:190
+msgid "The format returned via template functions"
+msgstr ""
+
+#: admin/acf/fields/date_picker.php:205
+msgid "Week Starts On"
+msgstr ""
+
+#: admin/acf/fields/email.php:36 inc/single-social.php:52
+msgid "Email"
+msgstr ""
+
+#: admin/acf/fields/email.php:125 admin/acf/fields/number.php:151
+#: admin/acf/fields/radio.php:223 admin/acf/fields/text.php:149
+#: admin/acf/fields/textarea.php:146 admin/acf/fields/url.php:118
+#: admin/acf/fields/wysiwyg.php:377
+msgid "Appears when creating a new post"
+msgstr ""
+
+#: admin/acf/fields/email.php:133 admin/acf/fields/number.php:159
+#: admin/acf/fields/password.php:137 admin/acf/fields/text.php:157
+#: admin/acf/fields/textarea.php:154 admin/acf/fields/url.php:126
+msgid "Placeholder Text"
+msgstr ""
+
+#: admin/acf/fields/email.php:134 admin/acf/fields/number.php:160
+#: admin/acf/fields/password.php:138 admin/acf/fields/text.php:158
+#: admin/acf/fields/textarea.php:155 admin/acf/fields/url.php:127
+msgid "Appears within the input"
+msgstr ""
+
+#: admin/acf/fields/email.php:142 admin/acf/fields/number.php:168
+#: admin/acf/fields/password.php:146 admin/acf/fields/text.php:166
+msgid "Prepend"
+msgstr ""
+
+#: admin/acf/fields/email.php:143 admin/acf/fields/number.php:169
+#: admin/acf/fields/password.php:147 admin/acf/fields/text.php:167
+msgid "Appears before the input"
+msgstr ""
+
+#: admin/acf/fields/email.php:151 admin/acf/fields/number.php:177
+#: admin/acf/fields/password.php:155 admin/acf/fields/text.php:175
+msgid "Append"
+msgstr ""
+
+#: admin/acf/fields/email.php:152 admin/acf/fields/number.php:178
+#: admin/acf/fields/password.php:156 admin/acf/fields/text.php:176
+msgid "Appears after the input"
+msgstr ""
+
+#: admin/acf/fields/file.php:36
+msgid "File"
+msgstr ""
+
+#: admin/acf/fields/file.php:47
+msgid "Edit File"
+msgstr ""
+
+#: admin/acf/fields/file.php:48
+msgid "Update File"
+msgstr ""
+
+#: admin/acf/fields/file.php:49 admin/acf/pro/fields/gallery.php:55
+msgid "uploaded to this post"
+msgstr ""
+
+#: admin/acf/fields/file.php:142
+msgid "File Name"
+msgstr ""
+
+#: admin/acf/fields/file.php:146
+msgid "File Size"
+msgstr ""
+
+#: admin/acf/fields/file.php:169
+msgid "No File selected"
+msgstr ""
+
+#: admin/acf/fields/file.php:169
+msgid "Add File"
+msgstr ""
+
+#: admin/acf/fields/file.php:214 admin/acf/fields/image.php:195
+#: admin/acf/fields/taxonomy.php:847
+msgid "Return Value"
+msgstr ""
+
+#: admin/acf/fields/file.php:215 admin/acf/fields/image.php:196
+msgid "Specify the returned value on front end"
+msgstr ""
+
+#: admin/acf/fields/file.php:220
+msgid "File Array"
+msgstr ""
+
+#: admin/acf/fields/file.php:221
+msgid "File URL"
+msgstr ""
+
+#: admin/acf/fields/file.php:222
+msgid "File ID"
+msgstr ""
+
+#: admin/acf/fields/file.php:229 admin/acf/fields/image.php:220
+#: admin/acf/pro/fields/gallery.php:655
+msgid "Library"
+msgstr ""
+
+#: admin/acf/fields/file.php:230 admin/acf/fields/image.php:221
+#: admin/acf/pro/fields/gallery.php:656
+msgid "Limit the media library choice"
+msgstr ""
+
+#: admin/acf/fields/file.php:236 admin/acf/fields/image.php:227
+#: admin/acf/pro/fields/gallery.php:662
+msgid "Uploaded to post"
+msgstr ""
+
+#: admin/acf/fields/file.php:243 admin/acf/fields/image.php:234
+#: admin/acf/pro/fields/gallery.php:669
+msgid "Minimum"
+msgstr ""
+
+#: admin/acf/fields/file.php:244 admin/acf/fields/file.php:255
+msgid "Restrict which files can be uploaded"
+msgstr ""
+
+#: admin/acf/fields/file.php:247 admin/acf/fields/file.php:258
+#: admin/acf/fields/image.php:257 admin/acf/fields/image.php:290
+#: admin/acf/pro/fields/gallery.php:692 admin/acf/pro/fields/gallery.php:725
+msgid "File size"
+msgstr ""
+
+#: admin/acf/fields/file.php:254 admin/acf/fields/image.php:267
+#: admin/acf/pro/fields/gallery.php:702
+msgid "Maximum"
+msgstr ""
+
+#: admin/acf/fields/file.php:265 admin/acf/fields/image.php:300
+#: admin/acf/pro/fields/gallery.php:735
+msgid "Allowed file types"
+msgstr ""
+
+#: admin/acf/fields/file.php:266 admin/acf/fields/image.php:301
+#: admin/acf/pro/fields/gallery.php:736
+msgid "Comma separated list. Leave blank for all types"
+msgstr ""
+
+#: admin/acf/fields/google-map.php:36
+msgid "Google Map"
+msgstr ""
+
+#: admin/acf/fields/google-map.php:51
+msgid "Locating"
+msgstr ""
+
+#: admin/acf/fields/google-map.php:52
+msgid "Sorry, this browser does not support geolocation"
+msgstr ""
+
+#: admin/acf/fields/google-map.php:133 admin/acf/fields/relationship.php:722
+msgid "Search"
+msgstr ""
+
+#: admin/acf/fields/google-map.php:134
+msgid "Clear location"
+msgstr ""
+
+#: admin/acf/fields/google-map.php:135
+msgid "Find current location"
+msgstr ""
+
+#: admin/acf/fields/google-map.php:138
+msgid "Search for address..."
+msgstr ""
+
+#: admin/acf/fields/google-map.php:168 admin/acf/fields/google-map.php:179
+msgid "Center"
+msgstr ""
+
+#: admin/acf/fields/google-map.php:169 admin/acf/fields/google-map.php:180
+msgid "Center the initial map"
+msgstr ""
+
+#: admin/acf/fields/google-map.php:193
+msgid "Zoom"
+msgstr ""
+
+#: admin/acf/fields/google-map.php:194
+msgid "Set the initial zoom level"
+msgstr ""
+
+#: admin/acf/fields/google-map.php:203 admin/acf/fields/image.php:246
+#: admin/acf/fields/image.php:279 admin/acf/fields/oembed.php:275
+#: admin/acf/pro/fields/gallery.php:681 admin/acf/pro/fields/gallery.php:714
+msgid "Height"
+msgstr ""
+
+#: admin/acf/fields/google-map.php:204
+msgid "Customise the map height"
+msgstr ""
+
+#: admin/acf/fields/image.php:51
+msgid "Select Image"
+msgstr ""
+
+#: admin/acf/fields/image.php:52 admin/acf/pro/fields/gallery.php:53
+msgid "Edit Image"
+msgstr ""
+
+#: admin/acf/fields/image.php:53 admin/acf/pro/fields/gallery.php:54
+msgid "Update Image"
+msgstr ""
+
+#: admin/acf/fields/image.php:54
+msgid "Uploaded to this post"
+msgstr ""
+
+#: admin/acf/fields/image.php:55
+msgid "All images"
+msgstr ""
+
+#: admin/acf/fields/image.php:147
+msgid "No image selected"
+msgstr ""
+
+#: admin/acf/fields/image.php:147
+msgid "Add Image"
+msgstr ""
+
+#: admin/acf/fields/image.php:201
+msgid "Image Array"
+msgstr ""
+
+#: admin/acf/fields/image.php:202
+msgid "Image URL"
+msgstr ""
+
+#: admin/acf/fields/image.php:203
+msgid "Image ID"
+msgstr ""
+
+#: admin/acf/fields/image.php:210 admin/acf/pro/fields/gallery.php:645
+msgid "Preview Size"
+msgstr ""
+
+#: admin/acf/fields/image.php:211 admin/acf/pro/fields/gallery.php:646
+msgid "Shown when entering data"
+msgstr ""
+
+#: admin/acf/fields/image.php:235 admin/acf/fields/image.php:268
+#: admin/acf/pro/fields/gallery.php:670 admin/acf/pro/fields/gallery.php:703
+msgid "Restrict which images can be uploaded"
+msgstr ""
+
+#: admin/acf/fields/message.php:36 admin/acf/fields/message.php:116
+#: admin/acf/fields/true_false.php:106
+msgid "Message"
+msgstr ""
+
+#: admin/acf/fields/message.php:125 admin/acf/fields/textarea.php:182
+msgid "New Lines"
+msgstr ""
+
+#: admin/acf/fields/message.php:126 admin/acf/fields/textarea.php:183
+msgid "Controls how new lines are rendered"
+msgstr ""
+
+#: admin/acf/fields/message.php:130 admin/acf/fields/textarea.php:187
+msgid "Automatically add paragraphs"
+msgstr ""
+
+#: admin/acf/fields/message.php:131 admin/acf/fields/textarea.php:188
+msgid "Automatically add &lt;br&gt;"
+msgstr ""
+
+#: admin/acf/fields/message.php:132 admin/acf/fields/textarea.php:189
+msgid "No Formatting"
+msgstr ""
+
+#: admin/acf/fields/message.php:139
+msgid "Escape HTML"
+msgstr ""
+
+#: admin/acf/fields/message.php:140
+msgid "Allow HTML markup to display as visible text instead of rendering"
+msgstr ""
+
+#: admin/acf/fields/number.php:36
+msgid "Number"
+msgstr ""
+
+#: admin/acf/fields/number.php:186
+msgid "Minimum Value"
+msgstr ""
+
+#: admin/acf/fields/number.php:195
+msgid "Maximum Value"
+msgstr ""
+
+#: admin/acf/fields/number.php:204
+msgid "Step Size"
+msgstr ""
+
+#: admin/acf/fields/number.php:242
+msgid "Value must be a number"
+msgstr ""
+
+#: admin/acf/fields/number.php:260
+#, php-format
+msgid "Value must be equal to or higher than %d"
+msgstr ""
+
+#: admin/acf/fields/number.php:268
+#, php-format
+msgid "Value must be equal to or lower than %d"
+msgstr ""
+
+#: admin/acf/fields/oembed.php:36
+msgid "oEmbed"
+msgstr ""
+
+#: admin/acf/fields/oembed.php:212
+msgid "Enter URL"
+msgstr ""
+
+#: admin/acf/fields/oembed.php:225
+msgid "No embed found for the given URL"
+msgstr ""
+
+#: admin/acf/fields/oembed.php:261 admin/acf/fields/oembed.php:272
+msgid "Embed Size"
+msgstr ""
+
+#: admin/acf/fields/page_link.php:197 inc/template-tags.php:297
+msgid "Archives"
+msgstr ""
+
+#: admin/acf/fields/page_link.php:520 admin/acf/fields/post_object.php:386
+#: admin/acf/fields/relationship.php:689
+msgid "Filter by Post Type"
+msgstr ""
+
+#: admin/acf/fields/page_link.php:528 admin/acf/fields/post_object.php:394
+#: admin/acf/fields/relationship.php:697
+msgid "All post types"
+msgstr ""
+
+#: admin/acf/fields/page_link.php:534 admin/acf/fields/post_object.php:400
+#: admin/acf/fields/relationship.php:703
+msgid "Filter by Taxonomy"
+msgstr ""
+
+#: admin/acf/fields/page_link.php:542 admin/acf/fields/post_object.php:408
+#: admin/acf/fields/relationship.php:711
+msgid "All taxonomies"
+msgstr ""
+
+#: admin/acf/fields/page_link.php:562 admin/acf/fields/post_object.php:428
+#: admin/acf/fields/select.php:386 admin/acf/fields/user.php:466
+msgid "Select multiple values?"
+msgstr ""
+
+#: admin/acf/fields/password.php:36
+msgid "Password"
+msgstr ""
+
+#: admin/acf/fields/post_object.php:36 admin/acf/fields/post_object.php:447
+#: admin/acf/fields/relationship.php:768
+msgid "Post Object"
+msgstr ""
+
+#: admin/acf/fields/post_object.php:442 admin/acf/fields/relationship.php:763
+msgid "Return Format"
+msgstr ""
+
+#: admin/acf/fields/post_object.php:448 admin/acf/fields/relationship.php:769
+msgid "Post ID"
+msgstr ""
+
+#: admin/acf/fields/radio.php:36
+msgid "Radio Button"
+msgstr ""
+
+#: admin/acf/fields/radio.php:202
+msgid "Other"
+msgstr ""
+
+#: admin/acf/fields/radio.php:206
+msgid "Add 'other' choice to allow for custom values"
+msgstr ""
+
+#: admin/acf/fields/radio.php:212
+msgid "Save Other"
+msgstr ""
+
+#: admin/acf/fields/radio.php:216
+msgid "Save 'other' values to the field's choices"
+msgstr ""
+
+#: admin/acf/fields/relationship.php:36
+msgid "Relationship"
+msgstr ""
+
+#: admin/acf/fields/relationship.php:48
+msgid "Minimum values reached ( {min} values )"
+msgstr ""
+
+#: admin/acf/fields/relationship.php:49
+msgid "Maximum values reached ( {max} values )"
+msgstr ""
+
+#: admin/acf/fields/relationship.php:50
+msgid "Loading"
+msgstr ""
+
+#: admin/acf/fields/relationship.php:51
+msgid "No matches found"
+msgstr ""
+
+#: admin/acf/fields/relationship.php:570
+msgid "Search..."
+msgstr ""
+
+#: admin/acf/fields/relationship.php:579
+msgid "Select post type"
+msgstr ""
+
+#: admin/acf/fields/relationship.php:592
+msgid "Select taxonomy"
+msgstr ""
+
+#: admin/acf/fields/relationship.php:724 admin/acf/fields/taxonomy.php:36
+#: admin/acf/fields/taxonomy.php:761
+msgid "Taxonomy"
+msgstr ""
+
+#: admin/acf/fields/relationship.php:731
+msgid "Elements"
+msgstr ""
+
+#: admin/acf/fields/relationship.php:732
+msgid "Selected elements will be displayed in each result"
+msgstr ""
+
+#: admin/acf/fields/relationship.php:743
+msgid "Minimum posts"
+msgstr ""
+
+#: admin/acf/fields/relationship.php:752
+msgid "Maximum posts"
+msgstr ""
+
+#: admin/acf/fields/relationship.php:856 admin/acf/pro/fields/gallery.php:817
+#, php-format
+msgid "%s requires at least %s selection"
+msgid_plural "%s requires at least %s selections"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/acf/fields/select.php:36 admin/acf/fields/select.php:167
+#: admin/acf/fields/taxonomy.php:783
+msgid "Select"
+msgstr ""
+
+#: admin/acf/fields/select.php:400
+msgid "Stylised UI"
+msgstr ""
+
+#: admin/acf/fields/select.php:414
+msgid "Use AJAX to lazy load choices?"
+msgstr ""
+
+#: admin/acf/fields/tab.php:36
+msgid "Tab"
+msgstr ""
+
+#: admin/acf/fields/tab.php:128
+msgid ""
+"The tab field will display incorrectly when added to a Table style repeater "
+"field or flexible content field layout"
+msgstr ""
+
+#: admin/acf/fields/tab.php:129
+msgid ""
+"Use \"Tab Fields\" to better organize your edit screen by grouping fields "
+"together."
+msgstr ""
+
+#: admin/acf/fields/tab.php:130
+msgid ""
+"All fields following this \"tab field\" (or until another \"tab field\" is "
+"defined) will be grouped together using this field's label as the tab "
+"heading."
+msgstr ""
+
+#: admin/acf/fields/tab.php:144
+msgid "Placement"
+msgstr ""
+
+#: admin/acf/fields/tab.php:156
+msgid "End-point"
+msgstr ""
+
+#: admin/acf/fields/tab.php:157
+msgid "Use this field as an end-point and start a new group of tabs"
+msgstr ""
+
+#: admin/acf/fields/taxonomy.php:730
+msgid "None"
+msgstr ""
+
+#: admin/acf/fields/taxonomy.php:762
+msgid "Select the taxonomy to be displayed"
+msgstr ""
+
+#: admin/acf/fields/taxonomy.php:771
+msgid "Appearance"
+msgstr ""
+
+#: admin/acf/fields/taxonomy.php:772
+msgid "Select the appearance of this field"
+msgstr ""
+
+#: admin/acf/fields/taxonomy.php:777
+msgid "Multiple Values"
+msgstr ""
+
+#: admin/acf/fields/taxonomy.php:779
+msgid "Multi Select"
+msgstr ""
+
+#: admin/acf/fields/taxonomy.php:781
+msgid "Single Value"
+msgstr ""
+
+#: admin/acf/fields/taxonomy.php:782
+msgid "Radio Buttons"
+msgstr ""
+
+#: admin/acf/fields/taxonomy.php:805
+msgid "Create Terms"
+msgstr ""
+
+#: admin/acf/fields/taxonomy.php:806
+msgid "Allow new terms to be created whilst editing"
+msgstr ""
+
+#: admin/acf/fields/taxonomy.php:819
+msgid "Save Terms"
+msgstr ""
+
+#: admin/acf/fields/taxonomy.php:820
+msgid "Connect selected terms to the post"
+msgstr ""
+
+#: admin/acf/fields/taxonomy.php:833
+msgid "Load Terms"
+msgstr ""
+
+#: admin/acf/fields/taxonomy.php:834
+msgid "Load value from posts terms"
+msgstr ""
+
+#: admin/acf/fields/taxonomy.php:852
+msgid "Term Object"
+msgstr ""
+
+#: admin/acf/fields/taxonomy.php:853
+msgid "Term ID"
+msgstr ""
+
+#: admin/acf/fields/taxonomy.php:912
+#, php-format
+msgid "User unable to add new %s"
+msgstr ""
+
+#: admin/acf/fields/taxonomy.php:925
+#, php-format
+msgid "%s already exists"
+msgstr ""
+
+#: admin/acf/fields/taxonomy.php:966
+#, php-format
+msgid "%s added"
+msgstr ""
+
+#: admin/acf/fields/taxonomy.php:1011
+msgid "Add"
+msgstr ""
+
+#: admin/acf/fields/text.php:36
+msgid "Text"
+msgstr ""
+
+#: admin/acf/fields/text.php:184 admin/acf/fields/textarea.php:163
+msgid "Character Limit"
+msgstr ""
+
+#: admin/acf/fields/text.php:185 admin/acf/fields/textarea.php:164
+msgid "Leave blank for no limit"
+msgstr ""
+
+#: admin/acf/fields/textarea.php:36
+msgid "Text Area"
+msgstr ""
+
+#: admin/acf/fields/textarea.php:172
+msgid "Rows"
+msgstr ""
+
+#: admin/acf/fields/textarea.php:173
+msgid "Sets the textarea height"
+msgstr ""
+
+#: admin/acf/fields/true_false.php:36
+msgid "True / False"
+msgstr ""
+
+#: admin/acf/fields/true_false.php:107
+msgid "eg. Show extra content"
+msgstr ""
+
+#: admin/acf/fields/url.php:36
+msgid "Url"
+msgstr ""
+
+#: admin/acf/fields/url.php:168
+msgid "Value must be a valid URL"
+msgstr ""
+
+#: admin/acf/fields/user.php:437
+msgid "Filter by role"
+msgstr ""
+
+#: admin/acf/fields/user.php:445
+msgid "All user roles"
+msgstr ""
+
+#: admin/acf/fields/wysiwyg.php:37
+msgid "Wysiwyg Editor"
+msgstr ""
+
+#: admin/acf/fields/wysiwyg.php:328
+msgid "Visual"
+msgstr ""
+
+#: admin/acf/fields/wysiwyg.php:329
+msgctxt "Name for the Text editor tab (formerly HTML)"
+msgid "Text"
+msgstr ""
+
+#: admin/acf/fields/wysiwyg.php:385
+msgid "Tabs"
+msgstr ""
+
+#: admin/acf/fields/wysiwyg.php:390
+msgid "Visual & Text"
+msgstr ""
+
+#: admin/acf/fields/wysiwyg.php:391
+msgid "Visual Only"
+msgstr ""
+
+#: admin/acf/fields/wysiwyg.php:392
+msgid "Text Only"
+msgstr ""
+
+#: admin/acf/fields/wysiwyg.php:399
+msgid "Toolbar"
+msgstr ""
+
+#: admin/acf/fields/wysiwyg.php:409
+msgid "Show Media Upload Buttons?"
+msgstr ""
+
+#: admin/acf/forms/post.php:294 admin/acf/pro/admin/options-page.php:352
+msgid "Edit field group"
+msgstr ""
+
+#: admin/acf/pro/acf-pro.php:24
+msgid "Advanced Custom Fields PRO"
+msgstr ""
+
+#: admin/acf/pro/acf-pro.php:191
+msgid "Flexible Content requires at least 1 layout"
+msgstr ""
+
+#: admin/acf/pro/admin/options-page.php:48
+msgid "Options Page"
+msgstr ""
+
+#: admin/acf/pro/admin/options-page.php:83
+msgid "No options pages exist"
+msgstr ""
+
+#: admin/acf/pro/admin/options-page.php:276
+msgid "Options Updated"
+msgstr ""
+
+#: admin/acf/pro/admin/options-page.php:282
+msgid "No Custom Field Groups found for this options page"
+msgstr ""
+
+#: admin/acf/pro/admin/options-page.php:282
+msgid "Create a Custom Field Group"
+msgstr ""
+
+#: admin/acf/pro/admin/settings-updates.php:137
+msgid "<b>Error</b>. Could not connect to update server"
+msgstr ""
+
+#: admin/acf/pro/admin/settings-updates.php:267
+#: admin/acf/pro/admin/settings-updates.php:338
+msgid "<b>Connection Error</b>. Sorry, please try again"
+msgstr ""
+
+#: admin/acf/pro/admin/views/options-page.php:48
+msgid "Publish"
+msgstr ""
+
+#: admin/acf/pro/admin/views/options-page.php:54
+msgid "Save Options"
+msgstr ""
+
+#: admin/acf/pro/admin/views/settings-updates.php:11
+msgid "Deactivate License"
+msgstr ""
+
+#: admin/acf/pro/admin/views/settings-updates.php:11
+msgid "Activate License"
+msgstr ""
+
+#: admin/acf/pro/admin/views/settings-updates.php:21
+msgid "License"
+msgstr ""
+
+#: admin/acf/pro/admin/views/settings-updates.php:32
+msgid "License Key"
+msgstr ""
+
+#: admin/acf/pro/admin/views/settings-updates.php:64
+msgid "Update Information"
+msgstr ""
+
+#: admin/acf/pro/admin/views/settings-updates.php:71
+msgid "Current Version"
+msgstr ""
+
+#: admin/acf/pro/admin/views/settings-updates.php:79
+msgid "Latest Version"
+msgstr ""
+
+#: admin/acf/pro/admin/views/settings-updates.php:87
+msgid "Update Available"
+msgstr ""
+
+#: admin/acf/pro/admin/views/settings-updates.php:95
+msgid "Update Plugin"
+msgstr ""
+
+#: admin/acf/pro/admin/views/settings-updates.php:97
+msgid "Please enter your license key above to unlock updates"
+msgstr ""
+
+#: admin/acf/pro/admin/views/settings-updates.php:103
+msgid "Check Again"
+msgstr ""
+
+#: admin/acf/pro/admin/views/settings-updates.php:120
+msgid "Upgrade Notice"
+msgstr ""
+
+#: admin/acf/pro/api/api-options-page.php:22
+#: admin/acf/pro/api/api-options-page.php:23
+msgid "Options"
+msgstr ""
+
+#: admin/acf/pro/core/updates.php:198
+#, php-format
+msgid ""
+"To enable updates, please enter your license key on the <a href=\"%s"
+"\">Updates</a> page. If you don't have a licence key, please see <a href=\"%s"
+"\">details & pricing</a>"
+msgstr ""
+
+#: admin/acf/pro/fields/flexible-content.php:36
+msgid "Flexible Content"
+msgstr ""
+
+#: admin/acf/pro/fields/flexible-content.php:42
+#: admin/acf/pro/fields/repeater.php:43
+msgid "Add Row"
+msgstr ""
+
+#: admin/acf/pro/fields/flexible-content.php:45
+msgid "layout"
+msgstr ""
+
+#: admin/acf/pro/fields/flexible-content.php:46
+msgid "layouts"
+msgstr ""
+
+#: admin/acf/pro/fields/flexible-content.php:47
+msgid "remove {layout}?"
+msgstr ""
+
+#: admin/acf/pro/fields/flexible-content.php:48
+msgid "This field requires at least {min} {identifier}"
+msgstr ""
+
+#: admin/acf/pro/fields/flexible-content.php:49
+msgid "This field has a limit of {max} {identifier}"
+msgstr ""
+
+#: admin/acf/pro/fields/flexible-content.php:50
+msgid "This field requires at least {min} {label} {identifier}"
+msgstr ""
+
+#: admin/acf/pro/fields/flexible-content.php:51
+msgid "Maximum {label} limit reached ({max} {identifier})"
+msgstr ""
+
+#: admin/acf/pro/fields/flexible-content.php:52
+msgid "{available} {label} {identifier} available (max {max})"
+msgstr ""
+
+#: admin/acf/pro/fields/flexible-content.php:53
+msgid "{required} {label} {identifier} required (min {min})"
+msgstr ""
+
+#: admin/acf/pro/fields/flexible-content.php:211
+#, php-format
+msgid "Click the \"%s\" button below to start creating your layout"
+msgstr ""
+
+#: admin/acf/pro/fields/flexible-content.php:356
+msgid "Add layout"
+msgstr ""
+
+#: admin/acf/pro/fields/flexible-content.php:359
+msgid "Remove layout"
+msgstr ""
+
+#: admin/acf/pro/fields/flexible-content.php:362
+#: admin/acf/pro/fields/repeater.php:312
+msgid "Click to toggle"
+msgstr ""
+
+#: admin/acf/pro/fields/flexible-content.php:502
+msgid "Reorder Layout"
+msgstr ""
+
+#: admin/acf/pro/fields/flexible-content.php:502
+msgid "Reorder"
+msgstr ""
+
+#: admin/acf/pro/fields/flexible-content.php:503
+msgid "Delete Layout"
+msgstr ""
+
+#: admin/acf/pro/fields/flexible-content.php:504
+msgid "Duplicate Layout"
+msgstr ""
+
+#: admin/acf/pro/fields/flexible-content.php:505
+msgid "Add New Layout"
+msgstr ""
+
+#: admin/acf/pro/fields/flexible-content.php:559
+#: admin/acf/pro/fields/repeater.php:474
+msgid "Table"
+msgstr ""
+
+#: admin/acf/pro/fields/flexible-content.php:560
+#: admin/acf/pro/fields/repeater.php:475
+msgid "Block"
+msgstr ""
+
+#: admin/acf/pro/fields/flexible-content.php:561
+#: admin/acf/pro/fields/repeater.php:476
+msgid "Row"
+msgstr ""
+
+#: admin/acf/pro/fields/flexible-content.php:576
+msgid "Min"
+msgstr ""
+
+#: admin/acf/pro/fields/flexible-content.php:589
+msgid "Max"
+msgstr ""
+
+#: admin/acf/pro/fields/flexible-content.php:617
+#: admin/acf/pro/fields/repeater.php:483
+msgid "Button Label"
+msgstr ""
+
+#: admin/acf/pro/fields/flexible-content.php:626
+msgid "Minimum Layouts"
+msgstr ""
+
+#: admin/acf/pro/fields/flexible-content.php:635
+msgid "Maximum Layouts"
+msgstr ""
+
+#: admin/acf/pro/fields/gallery.php:36
+msgid "Gallery"
+msgstr ""
+
+#: admin/acf/pro/fields/gallery.php:52
+msgid "Add Image to Gallery"
+msgstr ""
+
+#: admin/acf/pro/fields/gallery.php:56
+msgid "Maximum selection reached"
+msgstr ""
+
+#: admin/acf/pro/fields/gallery.php:343
+msgid "Length"
+msgstr ""
+
+#: admin/acf/pro/fields/gallery.php:363
+msgid "Remove"
+msgstr ""
+
+#: admin/acf/pro/fields/gallery.php:543
+msgid "Add to gallery"
+msgstr ""
+
+#: admin/acf/pro/fields/gallery.php:547
+msgid "Bulk actions"
+msgstr ""
+
+#: admin/acf/pro/fields/gallery.php:548
+msgid "Sort by date uploaded"
+msgstr ""
+
+#: admin/acf/pro/fields/gallery.php:549
+msgid "Sort by date modified"
+msgstr ""
+
+#: admin/acf/pro/fields/gallery.php:550
+msgid "Sort by title"
+msgstr ""
+
+#: admin/acf/pro/fields/gallery.php:551
+msgid "Reverse current order"
+msgstr ""
+
+#: admin/acf/pro/fields/gallery.php:569
+msgid "Close"
+msgstr ""
+
+#: admin/acf/pro/fields/gallery.php:627
+msgid "Minimum Selection"
+msgstr ""
+
+#: admin/acf/pro/fields/gallery.php:636
+msgid "Maximum Selection"
+msgstr ""
+
+#: admin/acf/pro/fields/repeater.php:36
+msgid "Repeater"
+msgstr ""
+
+#: admin/acf/pro/fields/repeater.php:47
+msgid "Minimum rows reached ({min} rows)"
+msgstr ""
+
+#: admin/acf/pro/fields/repeater.php:48
+msgid "Maximum rows reached ({max} rows)"
+msgstr ""
+
+#: admin/acf/pro/fields/repeater.php:310
+msgid "Drag to reorder"
+msgstr ""
+
+#: admin/acf/pro/fields/repeater.php:357
+msgid "Add row"
+msgstr ""
+
+#: admin/acf/pro/fields/repeater.php:358
+msgid "Remove row"
+msgstr ""
+
+#: admin/acf/pro/fields/repeater.php:406
+msgid "Sub Fields"
+msgstr ""
+
+#: admin/acf/pro/fields/repeater.php:436
+msgid "Collapsed"
+msgstr ""
+
+#: admin/acf/pro/fields/repeater.php:437
+msgid "Select a sub field to show when row is collapsed"
+msgstr ""
+
+#: admin/acf/pro/fields/repeater.php:447
+msgid "Minimum Rows"
+msgstr ""
+
+#: admin/acf/pro/fields/repeater.php:457
+msgid "Maximum Rows"
+msgstr ""
+
+#: admin/admin-editor.php:16
+msgid "Theme Font Colors"
+msgstr ""
+
+#: admin/admin-editor.php:57
+msgid "Theme Typography"
+msgstr ""
+
+#: admin/admin-editor.php:308
+msgid "Large Buttons"
+msgstr ""
+
+#: admin/admin-editor.php:355
+msgid "Medium Buttons"
+msgstr ""
+
+#: admin/admin-editor.php:402
+msgid "Small Buttons"
+msgstr ""
+
+#: admin/admin-editor.php:449
+msgid "Mini Buttons"
+msgstr ""
+
+#: admin/admin.php:98
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: admin/customizer/customizer.php:245
+msgid "Accent Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:245
+msgid ""
+"Headline decorations, hovers, bullets, icons, background overlays, "
+"subheadings, button text hovers"
+msgstr ""
+
+#: admin/customizer/customizer.php:253
+msgid "Body Text Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:261
+msgid "Body Text Link Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:268
+msgid "Navigation Background Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:275
+msgid "Navigation Dropdown Background Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:282
+msgid "Navigation Link Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:289
+msgid " Navigation Dropdown Link Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:297
+msgid "First Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:297
+msgid ""
+"Headlines, masonry portfolio titles, blog titles, meta links under blogs"
+msgstr ""
+
+#: admin/customizer/customizer.php:305
+msgid "Second Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:305
+msgid ""
+"Form field labels, Twitter widget date links, single page event dates, "
+"addresses, and headliner bands"
+msgstr ""
+
+#: admin/customizer/customizer.php:313
+msgid "Third Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:313
+msgid ""
+"Table headings, table borders, Twitter widget text color, footer links, main "
+"navigation labels, blog meta type accents, previous events link"
+msgstr ""
+
+#: admin/customizer/customizer.php:321
+msgid "Dark Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:321
+msgid "Button Hover Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:329
+msgid "Light Color"
+msgstr ""
+
+#: admin/customizer/customizer.php:329
+msgid "Subscribe widget icon color, light color for use in WP Editor"
+msgstr ""
+
+#: admin/customizer/options.php:44
+msgid "Cortex Theme Options"
+msgstr ""
+
+#: admin/customizer/options.php:45
+msgid ""
+"Options specific to the Cortex theme. (Some options can be overwritten on "
+"individual pages or posts.)"
+msgstr ""
+
+#: admin/customizer/options.php:71
+msgid "Select theme color style"
+msgstr ""
+
+#: admin/customizer/options.php:75
+msgid "Dark Style"
+msgstr ""
+
+#: admin/customizer/options.php:78
+msgid "Light Style"
+msgstr ""
+
+#: admin/customizer/options.php:93
+msgid "Select default sidebar layout for pages"
+msgstr ""
+
+#: admin/customizer/options.php:97 admin/customizer/options.php:123
+#: admin/customizer/options.php:151
+msgid "Sidebar Left"
+msgstr ""
+
+#: admin/customizer/options.php:100 admin/customizer/options.php:126
+#: admin/customizer/options.php:154
+msgid "Sidebar Right"
+msgstr ""
+
+#: admin/customizer/options.php:103 admin/customizer/options.php:130
+#: admin/customizer/options.php:157
+msgid "No Sidebar"
+msgstr ""
+
+#: admin/customizer/options.php:119
+msgid "Select default sidebar layout for posts"
+msgstr ""
+
+#: admin/customizer/options.php:147
+msgid "Select default sidebar layout for WooCommerce Shop Page"
+msgstr ""
+
+#: admin/customizer/options.php:173
+msgid "Show \"About The Author\" info on single posts?"
+msgstr ""
+
+#: admin/customizer/options.php:203
+msgid "Logo Upload"
+msgstr ""
+
+#: admin/customizer/options.php:203
+msgid "50 pixels height by any width"
+msgstr ""
+
+#: admin/customizer/options.php:224
+msgid "Favicon Upload"
+msgstr ""
+
+#: admin/customizer/options.php:245
+msgid "Apple Touch Icon Upload 180x180px"
+msgstr ""
+
+#: admin/customizer/options.php:266
+msgid "Fixed Footer Background Image"
+msgstr ""
+
+#: admin/customizer/options.php:289
+msgid "Loading Logo Image Upload"
+msgstr ""
+
+#: admin/customizer/options.php:303
+msgid "Loading Animation Image Upload"
+msgstr ""
+
+#: admin/customizer/options.php:317
+msgid ""
+"Do you want to enable the subtle animations from Animate.css? (Some existing "
+"animation will still exist.)"
+msgstr ""
+
+#: admin/customizer/options.php:321
+msgid "Enable Animate.css"
+msgstr ""
+
+#: admin/customizer/options.php:324
+msgid "Disable Animate.css"
+msgstr ""
+
+#: admin/customizer/options.php:339
+msgid "Enable right to left text? "
+msgstr ""
+
+#: admin/customizer/options.php:343
+msgid "Disable right to left text"
+msgstr ""
+
+#: admin/customizer/options.php:346
+msgid "Enable right to left text"
+msgstr ""
+
+#: admin/customizer/options.php:361
+msgid "Cortex Header"
+msgstr ""
+
+#: admin/customizer/options.php:362
+msgid "Select default navigation"
+msgstr ""
+
+#: admin/customizer/options.php:376
+msgid "Select navigation type"
+msgstr ""
+
+#: admin/customizer/options.php:380
+msgid "Transparent Background"
+msgstr ""
+
+#: admin/customizer/options.php:383
+msgid "Opaque Background"
+msgstr ""
+
+#: admin/customizer/options.php:405
+msgid "Select main navigation layout"
+msgstr ""
+
+#: admin/customizer/options.php:409
+msgid "Logo Left"
+msgstr ""
+
+#: admin/customizer/options.php:414
+msgid "Logo Right"
+msgstr ""
+
+#: admin/customizer/options.php:419
+msgid "Logo Center"
+msgstr ""
+
+#: admin/customizer/options.php:433
+msgid "Typography"
+msgstr ""
+
+#: admin/customizer/options.php:434
+msgid "Select fonts"
+msgstr ""
+
+#: admin/customizer/options.php:448
+msgid "Body font"
+msgstr ""
+
+#: admin/customizer/options.php:572
+msgid "Heading Font"
+msgstr ""
+
+#: admin/customizer/options.php:956
+msgid "Secondary Headline Font"
+msgstr ""
+
+#: admin/customizer/options.php:1259
+msgid "Social Icons"
+msgstr ""
+
+#: admin/customizer/options.php:1260
+msgid "Universal fixed social media icons"
+msgstr ""
+
+#: admin/customizer/options.php:1279
+msgid "Enable fixed social icons?"
+msgstr ""
+
+#: admin/customizer/options.php:1283
+msgid "Enable"
+msgstr ""
+
+#: admin/customizer/options.php:1286
+msgid "Disable"
+msgstr ""
+
+#: admin/customizer/options.php:1301
+msgid "Select icon type"
+msgstr ""
+
+#: admin/customizer/options.php:1305
+msgid "Normal icons"
+msgstr ""
+
+#: admin/customizer/options.php:1308
+msgid "Square icons"
+msgstr ""
+
+#: admin/customizer/options.php:1323
+msgid "Select icon color"
+msgstr ""
+
+#: admin/customizer/options.php:1327
+msgid "Dark"
+msgstr ""
+
+#: admin/customizer/options.php:1330
+msgid "Light"
+msgstr ""
+
+#: admin/customizer/options.php:1345
+msgid "Select icon position"
+msgstr ""
+
+#: admin/customizer/options.php:1349
+msgid "Upper Left"
+msgstr ""
+
+#: admin/customizer/options.php:1354
+msgid "Upper Right"
+msgstr ""
+
+#: admin/customizer/options.php:1359
+msgid "Lower Left"
+msgstr ""
+
+#: admin/customizer/options.php:1363
+msgid "Lower Right"
+msgstr ""
+
+#: admin/customizer/options.php:1394
+msgid "Facebook link"
+msgstr ""
+
+#: admin/customizer/options.php:1425
+msgid "Twitter link"
+msgstr ""
+
+#: admin/customizer/options.php:1456
+msgid "Instagram link"
+msgstr ""
+
+#: admin/customizer/options.php:1479
+msgid "Google+ link"
+msgstr ""
+
+#: admin/customizer/options.php:1501
+msgid "Flickr link"
+msgstr ""
+
+#: admin/customizer/options.php:1523
+msgid "MailChimp signup form link"
+msgstr ""
+
+#: admin/customizer/options.php:1545
+msgid "YouTube channel link"
+msgstr ""
+
+#: admin/customizer/options.php:1567
+msgid "Tumblr link"
+msgstr ""
+
+#: admin/customizer/options.php:1589
+msgid "Yelp link"
+msgstr ""
+
+#: admin/customizer/options.php:1611
+msgid "Last.fm link"
+msgstr ""
+
+#: admin/customizer/options.php:1633
+msgid "Pinterest link"
+msgstr ""
+
+#: admin/customizer/options.php:1655
+msgid "Reddit link"
+msgstr ""
+
+#: admin/customizer/options.php:1677
+msgid "LinkedIn link"
+msgstr ""
+
+#: admin/customizer/options.php:1699
+msgid "Google Maps link"
+msgstr ""
+
+#: admin/customizer/options.php:1721
+msgid "GitHub link"
+msgstr ""
+
+#: admin/customizer/options.php:1743
+msgid "SoundCloud link"
+msgstr ""
+
+#: admin/customizer/options.php:1765
+msgid "Deviant Art link"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:338
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:353
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:358
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:363
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:368
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:378
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:383
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:388
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:393
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:399
+#: admin/tgm/class-tgm-plugin-activation.php:3029
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:400
+#: admin/tgm/class-tgm-plugin-activation.php:2832
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:635
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:828
+#: admin/tgm/class-tgm-plugin-activation.php:3438
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:935
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:935
+#: admin/tgm/class-tgm-plugin-activation.php:938
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:938
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:1116
+#: admin/tgm/class-tgm-plugin-activation.php:2828
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:1881
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2167
+msgid "Required"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2170
+msgid "Recommended"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2186
+msgid "WordPress Repository"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2189
+msgid "External Source"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2192
+msgid "Pre-Packaged"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2209
+msgid "Not Installed"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2213
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2221
+msgid "Required Update not Available"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2224
+msgid "Requires Update"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2227
+msgid "Update recommended"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2235
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2280
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2283
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2286
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2289
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2371
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2379
+msgid "Installed version:"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2387
+msgid "Minimum required version:"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2399
+msgid "Available version:"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2422
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2436
+msgid "Plugin"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2437
+msgid "Source"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2442
+msgid "Version"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2491
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2495
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2500
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2570
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2603
+msgid "Install"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2612
+msgid "Activate"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2643
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2645
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2681
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2683
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2788
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2814
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3028
+msgid "Plugin activation failed."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3362
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3364
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3365
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3369
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3370
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3370
+#: admin/tgm/class-tgm-plugin-activation.php:3376
+msgid "Show Details"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3370
+#: admin/tgm/class-tgm-plugin-activation.php:3376
+msgid "Hide Details"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3371
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3372
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3375
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3376
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3377
+msgid "All installations have been completed."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3378
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: author.php:53 comments.php:92 inc/single-author.php:46
+msgid "Website"
+msgstr ""
+
+#: author.php:61 inc/extras.php:257 inc/single-author.php:54
+#: inc/single-social.php:20
+msgid "Twitter"
+msgstr ""
+
+#: author.php:69 inc/extras.php:266 inc/single-author.php:62
+#: inc/single-social.php:14
+msgid "Facebook"
+msgstr ""
+
+#: author.php:77 inc/extras.php:275 inc/single-author.php:70
+msgid "Google+"
+msgstr ""
+
+#: author.php:85 inc/extras.php:284 inc/single-author.php:78
+#: inc/single-social.php:34
+msgid "Pinterest"
+msgstr ""
+
+#: author.php:93 inc/extras.php:293 inc/single-author.php:86
+#: inc/single-social.php:46
+msgid "LinkedIn"
+msgstr ""
+
+#: author.php:101 inc/extras.php:302 inc/single-author.php:94
+msgid "Instagram"
+msgstr ""
+
+#: comments.php:28
+#, php-format
+msgctxt "comments title"
+msgid "One comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s comments on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:35 comments.php:57
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:38 comments.php:60
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:39 comments.php:61
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:73
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:82
+msgid "Name *"
+msgstr ""
+
+#: comments.php:87
+msgid "Email *"
+msgstr ""
+
+#: footer.php:20
+msgid ""
+"&copy; COMPANY NAME. Edit me on the Cortex Theme Options page. Wordpress "
+"Theme CORTEX by COVERT NINE."
+msgstr ""
+
+#: functions.php:60
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:101
+msgid "Default Sidebar"
+msgstr ""
+
+#: functions.php:103
+msgid "The default sidebar on most templates"
+msgstr ""
+
+#: functions.php:110
+msgid "Category Sidebar"
+msgstr ""
+
+#: functions.php:112
+msgid "A sidebar that displays on category archives"
+msgstr ""
+
+#: functions.php:119
+msgid "Events Sidebar"
+msgstr ""
+
+#: functions.php:121
+msgid "A sidebar that displays on single event pages"
+msgstr ""
+
+#: functions.php:128
+msgid "Short Sidebar"
+msgstr ""
+
+#: functions.php:130
+msgid "A sidebar for a single widget to use in page builder layouts."
+msgstr ""
+
+#: functions.php:137
+msgid "Woo Commerce Sidebar"
+msgstr ""
+
+#: functions.php:139
+msgid "Woo Commerce template page sidebar"
+msgstr ""
+
+#: functions.php:146
+msgid "Footer Top"
+msgstr ""
+
+#: functions.php:148
+msgid "The full width widgetized area above the footer"
+msgstr ""
+
+#: functions.php:155
+msgid "Footer Bottom"
+msgstr ""
+
+#: functions.php:157
+msgid ""
+"The lower footer that takes anywhere from 2-4 widgets displayed in flex "
+"boxes."
+msgstr ""
+
+#: header.php:52
+msgid ""
+"You are using an <strong>outdated</strong> browser. Please upgrade your "
+"browser to improve your experience."
+msgstr ""
+
+#: header.php:63 header.php:65
+msgid "Loading..."
+msgstr ""
+
+#: header.php:97
+msgid "Toggle navigation"
+msgstr ""
+
+#: inc/extras.php:219
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/extras.php:252
+msgid "Social Profiles"
+msgstr ""
+
+#: inc/single-author.php:13
+msgid "About The Author"
+msgstr ""
+
+#: inc/single-social.php:9
+msgid "Share"
+msgstr ""
+
+#: inc/single-social.php:40
+msgid "Google +"
+msgstr ""
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr ""
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr ""
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:86
+#, php-format
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+#: inc/template-tags.php:101
+#, php-format
+msgctxt "post author"
+msgid "By %s"
+msgstr ""
+
+#: inc/template-tags.php:181
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:183
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: inc/template-tags.php:230
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:230
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:230
+msgid "% Comments"
+msgstr ""
+
+#: inc/template-tags.php:259
+#, php-format
+msgid "Category: %s"
+msgstr ""
+
+#: inc/template-tags.php:261
+#, php-format
+msgid "Tag: %s"
+msgstr ""
+
+#: inc/template-tags.php:263
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: inc/template-tags.php:265
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: inc/template-tags.php:265
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/template-tags.php:267
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: inc/template-tags.php:267
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: inc/template-tags.php:269
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: inc/template-tags.php:269
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: inc/template-tags.php:272
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr ""
+
+#: inc/template-tags.php:274
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr ""
+
+#: inc/template-tags.php:276
+msgctxt "post format archive title"
+msgid "Images"
+msgstr ""
+
+#: inc/template-tags.php:278
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr ""
+
+#: inc/template-tags.php:280
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr ""
+
+#: inc/template-tags.php:282
+msgctxt "post format archive title"
+msgid "Links"
+msgstr ""
+
+#: inc/template-tags.php:284
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr ""
+
+#: inc/template-tags.php:286
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr ""
+
+#: inc/template-tags.php:288
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr ""
+
+#: inc/template-tags.php:291
+#, php-format
+msgid "Archives: %s"
+msgstr ""
+
+#: inc/template-tags.php:295
+#, php-format
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: index.php:68 index.php:84
+msgid "Sidebar must have widgets assigned to it"
+msgstr ""
+
+#: index.php:150 page-builder/content-blog_latest-ns.php:124
+#: page-builder/content-blog_latest.php:154
+#: page-builder/content-blog_latest.php:217
+#: page-builder/content-blog_latest.php:281 parts/archive-sidebar-left.php:44
+#: parts/archive-sidebar-none.php:31 parts/archive-sidebar-right.php:32
+msgid "Previous"
+msgstr ""
+
+#: page-builder/content-blog_latest-ns.php:117
+#: page-builder/content-blog_latest.php:148
+#: page-builder/content-blog_latest.php:210
+#: page-builder/content-blog_latest.php:274
+#: page-builder/content-blog_magazine-ns.php:294
+#: page-builder/content-blog_magazine.php:318
+#: page-builder/content-blog_magazine_featured-ns.php:389
+#: page-builder/content-blog_magazine_featured.php:422
+msgid "View All"
+msgstr ""
+
+#: page-builder/content-blog_latest.php:174
+#: page-builder/content-blog_latest.php:238
+#: page-builder/content-blog_latest_slider.php:163
+#: page-builder/content-blog_latest_slider.php:183
+#: page-builder/content-blog_magazine.php:340
+#: page-builder/content-blog_magazine_featured.php:436
+#: parts/archive-sidebar-left.php:7 parts/archive-sidebar-right.php:46
+#: parts/content-page-left.php:45 parts/content-page-right.php:59
+#: parts/content-single-left.php:93 parts/content-single-right.php:95
+msgid "Sidebar must have widgets assigned to them!"
+msgstr ""
+
+#: page-builder/content-events_listing-ns.php:95
+#: page-builder/content-events_listing-ns.php:210
+#: page-builder/content-events_listing.php:120
+#: page-builder/content-events_listing.php:235 page_events.php:166
+#: page_events.php:347 page_events.php:457 parts/event-header.php:73
+msgid "RSVP"
+msgstr ""
+
+#: page-builder/content-events_listing-ns.php:96
+#: page-builder/content-events_listing-ns.php:211
+#: page-builder/content-events_listing.php:121
+#: page-builder/content-events_listing.php:236 page_events.php:167
+#: page_events.php:348 page_events.php:458 parts/event-header.php:74
+msgid "Get Tickets"
+msgstr ""
+
+#: page-builder/content-events_listing-ns.php:97
+#: page-builder/content-events_listing-ns.php:212
+#: page-builder/content-events_listing.php:122
+#: page-builder/content-events_listing.php:237 page_events.php:168
+#: page_events.php:349 page_events.php:459 page_events.php:539
+msgid "Details"
+msgstr ""
+
+#: page-builder/content-events_listing-ns.php:156
+#: page-builder/content-events_listing-ns.php:223
+#: page-builder/content-events_listing.php:181
+#: page-builder/content-events_listing.php:248
+#: page-builder/content-masonry_posts.php:132
+#: page-builder/content-woocommerce-grid-ns.php:166
+#: page-builder/content-woocommerce-grid.php:190
+#: page-builder/content-woocommerce-slider.php:198
+msgid "View More"
+msgstr ""
+
+#: page-builder/content-events_listing-ns.php:231
+#: page-builder/content-events_listing.php:256
+msgid "No events were found"
+msgstr ""
+
+#: page-builder/content-hero.php:205
+msgid "You must set a hero image"
+msgstr ""
+
+#: page-builder/content-masonry_portfolio.php:176 page_portfolios.php:220
+msgid "Not a gallery or a lightbox type"
+msgstr ""
+
+#: page-builder/content-masonry_portfolio.php:189
+#: page-builder/content-masonry_posts.php:139 page_portfolios.php:233
+#: parts/archive-blog.php:38 parts/archive-masonry.php:63
+msgid "No posts were found."
+msgstr ""
+
+#: page-builder/content-masonry_projects.php:127 page_projects.php:233
+msgid "No projects were found."
+msgstr ""
+
+#: page-builder/content-none.php:20 parts/content-none.php:20
+msgid "Nothing Found"
+msgstr ""
+
+#: page-builder/content-none.php:31 parts/content-none.php:31
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: page-builder/content-none.php:37 parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: page-builder/content-none.php:44 parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: page-builder/content-woocommerce-grid-ns.php:156
+#: page-builder/content-woocommerce-grid.php:180
+#: page-builder/content-woocommerce-slider.php:178
+msgid "No products were found"
+msgstr ""
+
+#: page-builder/format-audio.php:58 page-builder/format-gallery.php:29
+#: page-builder/format-standard.php:30 page-builder/format-video.php:73
+#: parts/content-page-left.php:23 parts/content-page-none.php:18
+#: parts/content-page-right.php:24 parts/content-single-left.php:46
+#: parts/content-single-none.php:41 parts/content-single-right.php:46
+msgid "Pages:"
+msgstr ""
+
+#: page_builder-sidebar.php:224
+msgid "You must select a sidebar for the page and assign widgets to it."
+msgstr ""
+
+#: page_events.php:191
+msgid "No upcoming events at this time"
+msgstr ""
+
+#: page_events.php:301
+msgid "Past Events"
+msgstr ""
+
+#: page_events.php:477
+msgid "No upcoming events at this time."
+msgstr ""
+
+#: page_events.php:560
+msgid "No past events were found"
+msgstr ""
+
+#: parts/content-single-left.php:70 parts/content-single-none.php:73
+#: parts/content-single-right.php:73
+msgid "Older Post"
+msgstr ""
+
+#: parts/content-single-left.php:71 parts/content-single-none.php:74
+#: parts/content-single-right.php:74
+msgid "Newer Post"
+msgstr ""
+
+#: parts/event-single-left.php:33 parts/event-single-right.php:94
+msgid "Events Sidebar must have widgets assigned to them!"
+msgstr ""
+
+#: parts/event-single-left.php:73 parts/event-single-none.php:55
+#: parts/event-single-right.php:55
+msgid "View Map"
+msgstr ""
+
+#: search.php:23
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: sidebar-footer-bottom.php:9
+msgid "Footer Bottom Sidebar is not active"
+msgstr ""
+
+#: sidebar-footer-top.php:9
+msgid "Footer Top Sidebar is not active"
+msgstr ""
+
+#: sidebar.php:9
+msgid "Sidebar is not active"
+msgstr ""
+
+#: woocommerce.php:36 woocommerce.php:64 woocommerce.php:86
+msgid "Woo Commerce Sidebar must have widgets assigned"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Cortex"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://cortex.covertnine.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A multi-concept Wordpress theme for small businesses, photographers, "
+"agencies, bands, restaurants, magazines, blogs, & festivals"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "COVERT NINE"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.covertnine.com"
+msgstr ""

@@ -1,0 +1,116 @@
+/*
+A Bootstrap 3.1 affix sidebar template
+from http://bootply.com
+
+This CSS code should follow the 'bootstrap.css'
+in your HTML file.
+
+license: MIT
+author: bootply.com
+*/
+
+body {
+ padding-top:50px;
+}
+
+#masthead { 
+ min-height:150px;
+}
+
+#masthead h1 {
+ font-size: 30px;
+ line-height: 1;
+ padding-top:20px;
+}
+
+#masthead .well {
+ margin-top:8%;
+}
+
+@media screen and (min-width: 768px) {
+  #masthead h1 {
+    font-size: 50px;
+  }
+}
+
+.navbar-bright {
+ background-color:#111155;
+ color:#fff;
+}
+
+.affix-top,.affix{
+ position: static;
+}
+
+@media (min-width: 979px) {
+  #sidebar.affix-top {
+    position: static;
+  	margin-top:30px;
+  	width:228px;
+  }
+  
+  #sidebar.affix {
+    position: fixed;
+    top:70px;
+    width:228px;
+  }
+}
+/*body font*/
+#sidebar li.active {
+  border:0 #eee solid;
+  border-right-width:5px;
+}
+
+body,button,input,select,textarea,.input__field,.widget-cortex-about p,.entry-meta{
+	font-family:'Roboto Slab',sans-serif
+}
+.entry-content blockquote p,
+blockquote p {
+	font: normal 1.8rem/2em 'Roboto Slab',sans-serif
+}
+
+/* heading font */
+.headline-font,.widget_calendar #wp-calendar tr th,.shop_table tr th,h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6,.widget_calendar #wp-calendar tr td,.widget_calendar #wp-calendar caption,.widget_cortex_twitter_widget .twitter-tweet ul li,.widget h1,.widget h2,.widget h3,.widget-cortex-instagram .clear a,.small-link,.comment-reply-link,.comment-author .fn,.comment-author .fn .url,.comment-metadata a,.author-social li a,.nav-links .page-numbers,.nav-links .nav-previous,.nav-links .nav-next,.woocommerce nav.woocommerce-pagination .page-numbers,.content-single .entry-header .entry-header-standard-wrapper .entry-header-standard .entry-header-standard-inner h1,blockquote:before,.site-info,.caption-bottom .tp-caption a,.content-area .site-main .masonry_portfolio .container .isotope-item .masonry_portfolio_sub_heading,.blog_latest .blog_latest_title h3,.content-area .site-main .masonry_project .isotope-item .masonry_project_sub_heading,.action-link, .-cortex-h1 {
+	font-family:'Montserrat', sans-serif;
+	font-weight:bold;
+	letter-spacing:.2rem;
+	text-transform:uppercase
+}
+
+.-cortex-h1 {
+	font-family:'Montserrat', sans-serif !important;
+	font-weight:bold !important;
+	letter-spacing:.2rem !important;
+	text-transform:uppercase !important
+}
+
+.nav-links .page-numbers, .nav-links .nav-previous, .nav-links .nav-next, .woocommerce nav.woocommerce-pagination .page-numbers {font-size: 1.2rem;}
+
+.magazine_latest_featured .magazine_latest_content .single-article .entry-title .h5 {font-size: 1.6rem;}
+
+/* secondary font */
+.secondary-font,.btn,input[type="submit"],#submit,.woocommerce .button.add_to_cart_button,.woocommerce #content button,.entry-content .btn.light-color-text.cortex_the_excerpt:visited,.entry-content .btn.light-color-text.cortex_the_excerpt,.cortex-woocommerce .woocommerce-tabs .tabs > li a,button,input[type="button"],input[type="reset"],input[type="submit"],.button.button.alt,.woocommerce div.product form.cart .button,.woocommerce #content .button,.widget_search .search-submit,.content-single .entry-header .entry-header-standard-wrapper .entry-header-standard .entry-header-standard-inner .h5 .posted-on a,.navbar-default .navbar-collapse .nav li a,.tp-button,.category .masonry_posts .isotope-item .masonry_portfolio_heading,.blog_latest .blog_latest_title .subtitle,.subtitle,.project_masonry_description,.events_description,.content-area .site-main .masonry_project .isotope-item h3 .masonry_project_heading,.woocommerce .buttons .button,.woocommerce .sidebar .buttons .button,.woocommerce .sidebar .buttons .button,.woocommerce form .button,.woocommerce .buttons .button.wc-forward,.woocommerce .sidebar .button.wc-forward,.woocommerce .sidebar .button.wc-forward,.content-area .site-main .masonry_portfolio .container .isotope-item .masonry_portfolio_heading, .category .masonry_posts .isotope-item .masonry_portfolio_heading,.entry-content .nav-tabs > li a, .cortex-woocommerce .woocommerce-tabs .tabs > li a,.entry-content .nav-tabs > li a, .cortex-woocommerce .woocommerce-tabs .tabs > li a, .dropdown-header, .woocommerce #review_form #respond .form-submit #submit, .woocommerce a.button, .woocommerce .button, .subheading.h1, .subheading.h2, .subheading.h3, .subheading.h4, .subheading.h5, .subheading.h6, .navbar .dropdown-header, .dropdown-header, .navbar-default .navbar-collapse .nav.center .dropdown-header, .subheading.h1, .subheading.h2, .subheading.h3, .subheading.h4, .subheading.h5, .subheading.h6{
+	font-family:'oswald', sans-serif;
+	text-transform:uppercase;
+	letter-spacing:.1rem;
+	font-weight: 300;
+}
+
+.content-area .site-main .masonry_portfolio .container .isotope-item .masonry_portfolio_heading{
+	text-transform: capitalize;
+}
+
+.-cortex-h2,.-cortex-h3,.-cortex-h4,.-cortex-h5,.-cortex-h6 {
+	font-family:'oswald', sans-serif !important;
+	text-transform:uppercase !important;
+	letter-spacing:.1rem !important;
+	font-weight: 300 !important;
+}
+
+a {color: #b21f24;}
+a:hover {color: #313131;}
+a:active, a:focus {color: #000000;}
+
+.c9maincontent img {max-width: 600px; height: auto;}
+.c9maincontent pre, pre {max-width: 600px !important;}
+

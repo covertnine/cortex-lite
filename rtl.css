@@ -1,0 +1,231 @@
+/*
+Theme Name: cortex
+
+Adding support for language written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+http://codex.wordpress.org/Right_to_Left_Language_Support
+
+*/
+
+
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+
+.entry-content ul li:before,
+.widget_archive ul li:before,
+.widget_categories ul li:before,
+.widget_categories ul li:before,
+.widget_pages ul li:before,
+.widget_meta ul li:before,
+.widget_recent_comments ul li:before,
+.widget_recent_entries ul li:before,
+.widget_rss ul li:before,
+.widget_text ul li:before,
+.widget_nav_menu ul li:before,
+.widget_product_categories ul li:before,
+.widget_cortex_twitter_widget ul li:before,
+.twitter-tweet .twitter-container,
+#footer-top .widget_cortex_twitter_widget ul li,
+#footer-top .widget_rss ul li,
+.entry-content hr,
+.input__label--cortex,
+.entry-meta .cat-links:before,
+.entry-meta .tags-links:before,
+.mfp-content,
+.mfp-title,
+.simple_slider .flexslider .slides .slide .flexslider-slide-content,
+.full_width_slider .tp-caption hr,
+.caption-bottom .tp-caption hr,
+.event-big hr,
+.content-project .video-hero .video-description,
+.content-area .site-main .masonry_project .isotope-item h3,
+.hero .heading .hero-description,
+.text-left, hr, .c9-footer-layout3 .widget_nav_menu ul li, .c9-footer-layout2 .widget_nav_menu ul li, .c9-footer-layout1 .c9-footer-layout1-top .widget_nav_menu ul li {
+	text-align: right;
+}
+
+hr {
+	margin-right: 0px;
+	margin-left: auto;
+}
+
+.text-right {
+	text-align: left;
+}
+
+#topnav .text-left {
+	direction: ltr;
+	text-align: left;
+}
+
+#topnav .text-right {
+	text-align: right;
+}
+
+.navbar-default .nav li.menu-item-has-children a:after {line-height: 1.4rem; margin-top: -3px;}
+
+.widget_cortex_twitter_widget .twitter-profile .twitter-avatar,
+.widget_cortex_twitter_widget .twitter-profile .twitter-heading,
+.comment-navigation .nav-previous,
+.posts-navigation .nav-previous,
+.post-navigation .nav-previous,
+.alignleft,
+.search-form label,
+.widget_search .search-form label,
+.widget_product_search .woocommerce-product-search label,
+.widget_search .search-submit,
+.nav-links .nav-previous:before,
+.comment-list .comment article .avatar,
+.navbar-default .navbar-collapse .nav li {
+	float: right;
+}
+
+.alignright {
+	float: left;
+}
+
+.entry-content ul li:before, .widget_archive ul li:before, .widget_categories ul li:before, .widget_categories ul li:before, .widget_pages ul li:before, .widget_meta ul li:before, .widget_recent_comments ul li:before, .widget_recent_entries ul li:before, .widget_rss ul li:before, .widget_text ul li:before, .widget_nav_menu ul li:before, .widget_product_categories ul li:before, .entry-meta .cat-links:before, .entry-meta .cat-links:before, .entry-meta .tags-links:before, .nav.nav-tabs li:after, .entry-meta .cat-links:after, .entry-meta .tags-links:after, .footer-container .widget_nav_menu ul li:after,#footer-top .widget_nav_menu ul li:after,.c9-footer-full-width .widget_nav_menu ul li:after  {
+	display: none;
+}
+
+.event-big .event-buttons {
+	right: auto;
+	left: 10px;
+}
+
+.entry-meta .cat-links:after {
+	content: "\f100";
+}
+
+.entry-meta .tags-links:after {
+	content: "\f02c";
+}
+
+/*twitter widget adjustments*/
+#footer-top .widget_cortex_twitter_widget .dark ul li,
+#footer-top .widget_cortex_twitter_widget .light ul li {
+	margin: 0px 70px 15px 0px;
+}
+
+.twitter-tweet ul li:before {
+	left: auto;
+	right: -70px;
+}
+
+.widget_cortex_twitter_widget ul li {
+	margin: 0px 20px 15px 0px;
+}
+
+#footer-bottom .widget_cortex_twitter_widget ul li:before,
+.sidebar .widget_cortex_twitter_widget ul li:before {
+	left: auto;
+	right: -20px;
+}
+
+#footer-bottom .widget-cortex-subscribe ul,
+.sidebar .widget-cortex-subscribe ul {margin-right: -10px;}
+
+.sidebar .widget_cortex_twitter_widget .dark ul li, .sidebar .widget_cortex_twitter_widget .light ul li, .sidebar .widget_cortex_twitter_widget .twitter-tweet .twitter-container .twitter-content ul li .tweet-text {
+	margin: 0px 20px 15px 0px;
+}
+
+.action-link:after {margin-left: 0px; margin-right: 3px;}
+
+/*nav options */
+.nav.navbar-nav ul li,
+.nav.navbar-nav ul li a {
+	text-align: right;
+}
+
+.navbar-default .nav li .dropdown-menu .menu-item-has-children a:after {
+	content: "\f104";
+}
+
+.navbar-default .navbar-collapse .nav li .dropdown-menu .dropdown-submenu > .dropdown-menu {
+	left: auto;
+	right: 100%;
+}
+
+/*flex slider fix*/
+.flexslider {direction: ltr;}
+
+/*footer get in touch widget*/
+.widget-cortex-contact .email:before, .widget-cortex-contact .tel:before, .widget-cortex-contact .street-address:before {
+	left: auto;
+	right: -25px;
+}
+
+.action-link:after {
+	content: "\f100";
+}
+
+.entry-meta .cat-links:before, .entry-meta .tags-links:before {
+	font-family: 'FontAwesome';
+	font-size: 1.2rem;
+	display: inline-block;
+	line-height: 1.6rem;
+	vertical-align: top;
+	text-align: left;
+	margin: 0px 4px;
+	padding: 2px 0px;
+}
+
+.entry-content ul li:after, .widget_archive ul li:after, .widget_categories ul li:after, .widget_categories ul li:after, .widget_pages ul li:after, .widget_meta ul li:after, .widget_recent_comments ul li:after, .widget_recent_entries ul li:after, .widget_rss ul li:after, .widget_text ul li:after, .widget_nav_menu ul li:after, .widget_product_categories ul li:after {
+	margin: 0px -27px 0px 15px;
+	padding: 5px 0px 0px 0px;
+	content: "\f190";
+	font-family: 'FontAwesome';
+	font-size: 1.2rem;
+	display: inline-block;
+	line-height: 1.6rem;
+	vertical-align: middle;
+	text-align: right;
+	float: right;
+}
+
+.content-area .site-main .masonry_portfolio .container .isotope-item .masonry_portfolio_meta, .category .masonry_posts .isotope-item .masonry_portfolio_meta {
+	left: auto;
+	right: 4%;
+}
+
+/*last navigation item fix*/
+/* prevents last item's dropdowns from going offscreen*/
+.navbar-default .navbar-collapse .nav li:first-child .dropdown-menu .dropdown-submenu,
+.navbar-default .navbar-collapse .nav li:nth-child(2) .dropdown-menu .dropdown-submenu,
+.navbar-default .navbar-collapse .nav li:last-child .dropdown-menu .dropdown-submenu {
+	float: right !important;
+	left: auto;
+	right: 0px;
+}
+
+.nav.navbar-right {padding-right: 0px;}
+
+.navbar-default .navbar-collapse .nav li:first-child .dropdown-menu .dropdown-submenu > .dropdown-menu,
+.navbar-default .navbar-collapse .nav li:nth-child(2) .dropdown-menu .dropdown-submenu > .dropdown-menu,
+.navbar-default .navbar-collapse .nav li:last-child .dropdown-menu .dropdown-submenu > .dropdown-menu {
+	left: auto;
+	right: -100%;
+}
+
+.navbar-default .nav li .dropdown-menu .menu-item-has-children a:after {
+	right: auto;
+	left: 0px;
+}
+
+.dropdown-submenu .dropdown-menu {margin-right: 15px;}
+
+/* products slider */
+.flexsliderproducts {text-align: left;direction: ltr;}
+.flexsliderproducts .flex-viewport .product,
+.flexsliderproducts .flex-viewport .product .star-rating {text-align: right;direction: rtl}
+
+@media (max-width: 970px) {
+	.content-area .site-main .container .grid-tiles.portfolio-listing .tile .masonry_portfolio_meta {
+		text-align: right;
+	}
+}
+

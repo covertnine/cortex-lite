@@ -1,0 +1,52 @@
+/*footer adjustments cause there's no flexbox*/
+.no-flexbox #footer-bottom .widget {
+	min-width: 20%;
+	max-width: 50%;
+	float: left;
+}
+
+.no-flexbox #footer-bottom .widget.widget_cortex_twitter_widget {max-width: 25%;}
+
+/* hr adjustment on gallery slider revolution*/
+.full_width_slider .tp-caption hr, .caption-bottom .tp-caption hr {margin-top: 10px;display: block;}
+
+/*prev/next page arrows*/
+.nav-links .prev:before, .nav-links .nav-previous:before{vertical-align: middle;margin-top: 10px;}
+.entry-meta .cat-links:before, .entry-meta .tags-links:before {margin-top: 8px;}
+
+/*next navigation arrow flex gallery*/
+.entry-header-flex-gallery .flex-direction-nav .flex-next,
+.flex-direction-nav .flex-next {
+	right: 20px;
+	position: absolute;
+	z-index: 9999999;
+	color: transparent;
+	visibility:visible;
+}
+.entry-header-flex-gallery .flex-direction-nav .flex-next:before,
+.flex-direction-nav .flex-next:before,
+.flex-next:before {
+	visibility: visible !important;
+	right: 20px !important;
+	position: absolute !important;
+	z-index: 9999999 !important;
+}
+
+.entry-header-flex-gallery .flex-direction-nav .flex-next:hover,
+.flex-direction-nav .flex-next:hover,
+.flex-next:hover {color: transparent !important;}
+
+.entry-header-flex-gallery .flex-direction-nav .flex-next:before, .flex-direction-nav .flex-next:before,
+.flex-direction-nav .flex-prev:before,
+.flex-prev:before,
+.flex-next:before {color: rgba(167, 167, 167, 1);}
+
+.flexsliderproducts:hover .flex-direction-nav .flex-prev,
+.entry-header-flex-gallery .flex-direction-nav .flex-prev:before,
+.flex-direction-nav .flex-prev:before,
+.flex-prev:before {
+	left: 30px !important;
+}
+
+.navbar-default .navbar-collapse .nav li .dropdown-menu .dropdown-header {margin-left: 15px;}
+.dropdown-menu .divider {width: 100%;}

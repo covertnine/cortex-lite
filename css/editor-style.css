@@ -1,0 +1,79 @@
+@import url( "../style.css" );
+@import url( "//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css");
+
+body,html {font-size: 62.5%;}
+html .mce-Content-Body {
+	max-width: 940px !important;
+	padding: 15px !important;
+	font-size: 62.5% !important;
+}
+
+html p, html ul li,
+html body ol li {font-size: 1.4rem !important;}
+
+html dl.wp-caption .wp-caption-dd {font-size: 1.1rem !important; line-height: 1.3rem !important; margin-top: 0px !important;text-transform: uppercase !important;font-weight: bold !important;text-align: center !important;}
+
+html p a,
+html a {text-decoration: underline !important;}
+html p a.btn,
+html a.btn,
+html p a.btn.btn-xs,
+html p a.btn.btn-sm,
+html p a.btn.btn-md,
+html p a.btn.btn-lg,
+html a.btn.btn-xs,
+html a.btn.btn-sm,
+html a.btn.btn-md,
+html a.btn.btn-lg {text-decoration: none !important;}
+
+html blockquote:before {top: -30px !important;}
+
+h1:first-child, h2:first-child, h3:first-child, h4:first-child, h5:first-child, h6:first-child { margin-top: 0px !important; }
+
+ul li:before {
+	content:"\f18e";
+	font-family:'FontAwesome';
+	font-size:1.2rem;
+	display:inline-block;
+	line-height:1.6rem;
+	vertical-align:middle;
+	text-align:left;
+	color:#ca292c;
+	margin:0 15px 0 0px;
+
+}
+ul {margin-left: 20px;}
+ul, ol {
+	padding:0 50px 0 30px;
+	list-style:none;
+	margin:15px 0;
+}
+
+ul li, ol li {
+	font-size:1.4rem;
+	margin:10px 0;
+}
+
+ol li {
+	counter-increment: step-counter;
+}
+ol {
+	list-style-type: none;
+}
+ol li:before {
+	color:#ca292c;
+	content: counter(step-counter);
+	width: 22px;
+	display: inline-block;
+	font-weight: bold;
+}
+
+.cortex-popup:after,
+.cortex-popup-video:after {
+	content: "\f26c" !important;
+	font-family:'FontAwesome' !important;
+	display: inline-block !important;
+	width: 15px !important;
+	height: 15px !important;
+	font-size: 10px !important;
+}
